@@ -88,6 +88,14 @@ function cleanHtml(html) {
   clean = clean.replace(/\s+(width|height)="\d+"/g, '');
   clean = clean.replace(/\s+decoding="[^"]*"/g, '');
   clean = clean.replace(/\s+role="[^"]*"/g, '');
+  // XSS: Remove on* event handlers (onclick, onerror, onload, etc.)
+  clean = clean.replace(/\s+on\w+="[^"]*"/gi, '');
+  clean = clean.replace(/\s+on\w+='[^']*'/gi, '');
+  // XSS: Remove javascript: hrefs
+  clean = clean.replace(/href\s*=\s*"javascript:[^"]*"/gi, 'href="#"');
+  clean = clean.replace(/href\s*=\s*'javascript:[^']*'/gi, "href='#'");
+  // XSS: Remove <svg> elements (can contain embedded scripts)
+  clean = clean.replace(/<svg[\s\S]*?<\/svg>/gi, '');
   clean = clean.replace(/<span[^>]*>([\s\S]*?)<\/span>/g, '$1');
   clean = clean.replace(/<div[^>]*>/g, '');
   clean = clean.replace(/<\/div>/g, '');
@@ -139,6 +147,8 @@ function decodeTitle(title) {
 }
 
 // Generate URL-friendly slug from title
+const usedSlugs = new Set();
+
 function generateSlug(title) {
   let slug = title
     .toLowerCase()
@@ -153,7 +163,16 @@ function generateSlug(title) {
     const lastHyphen = slug.lastIndexOf('-');
     if (lastHyphen > 30) slug = slug.substring(0, lastHyphen);
   }
-  return slug;
+
+  // Deduplicate slugs
+  let finalSlug = slug;
+  let counter = 2;
+  while (usedSlugs.has(finalSlug)) {
+    finalSlug = `${slug}-${counter}`;
+    counter++;
+  }
+  usedSlugs.add(finalSlug);
+  return finalSlug;
 }
 
 // Derive tags from category and title

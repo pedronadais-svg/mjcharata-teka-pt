@@ -1,0 +1,28 @@
+[
+  {
+    "id": "hero-1",
+    "type": "hero",
+    "title": "Van Gogh Collection",
+    "subtitle": "Design que inspira, tecnologia que simplifica",
+    "mediaType": "video",
+    "mediaUrl": "/videos/van-gogh.mp4",
+    "posterUrl": "/images/hero/van-gogh-poster.jpg",
+    "ctaText": "Explorar",
+    "ctaLink": "/cozinha/fornos",
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "id": "hero-2",
+    "type": "hero",
+    "title": "Ar Condicionado Teka",
+    "subtitle": "Conforto térmico para a sua casa em Angola",
+    "mediaType": "image",
+    "mediaUrl": "/images/hero/ar-condicionado.jpg",
+    "posterUrl": "",
+    "ctaText": "Ver gama",
+    "ctaLink": "/ar-condicionado",
+    "order": 2,
+    "isActive": true
+  }
+]

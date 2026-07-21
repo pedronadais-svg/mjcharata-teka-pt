@@ -1,0 +1,25 @@
+{
+  "siteName": "Teka Angola",
+  "company": "MDV — Madeiras e Derivados, S.A.",
+  "phone": "+244 933 302 752",
+  "email": "teka@mdvmadeiras.com",
+  "address": "Luanda, Angola",
+  "whatsapp": "+244 933 302 752",
+  "social": {
+    "facebook": "https://facebook.com/tekaangola",
+    "instagram": "https://instagram.com/tekaangola",
+    "youtube": "",
+    "linkedin": ""
+  },
+  "seo": {
+    "defaultTitle": "Eletrodomésticos de Cozinha & Lavandaria | Teka Angola",
+    "defaultDescription": "Fornos, Placas, Exaustores, Frigoríficos, Máquinas de Lavar e mais. Qualidade alemã Teka distribuída pela MDV em Angola.",
+    "ogImage": "/og-image.jpg"
+  },
+  "features": {
+    "showPrices": true,
+    "enableChat": true,
+    "enableNewsletter": true,
+    "maintenanceMode": false
+  }
+}

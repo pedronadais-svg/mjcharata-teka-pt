@@ -1,0 +1,32 @@
+[
+  {
+    "id": "home-hero",
+    "page": "home",
+    "section": "hero",
+    "title": "Uma receita para a vida",
+    "subtitle": "Eletrodomésticos Teka de qualidade alemã",
+    "cta": "Ver produtos",
+    "ctaLink": "/cozinha/fornos"
+  },
+  {
+    "id": "home-categories-title",
+    "page": "home",
+    "section": "categories",
+    "title": "Explore por Categoria",
+    "subtitle": "Encontre o eletrodoméstico perfeito para a sua casa"
+  },
+  {
+    "id": "about-intro",
+    "page": "sobre",
+    "section": "intro",
+    "title": "Sobre a Teka Angola",
+    "content": "A Teka é uma marca alemã com mais de 100 anos de história, presente em Angola através da MDV — Madeiras e Derivados. Oferecemos soluções completas para cozinha, lavandaria e climatização."
+  },
+  {
+    "id": "contact-info",
+    "page": "contacto",
+    "section": "info",
+    "title": "Contacte-nos",
+    "content": "Estamos disponíveis para ajudar com qualquer questão sobre os nossos produtos e serviços."
+  }
+]

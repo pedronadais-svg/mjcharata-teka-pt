@@ -32,8 +32,8 @@ function CategoryFilterInner({ counts, total }: CategoryFilterProps) {
           }}
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
             active === cat
-              ? 'bg-teka-blue text-white'
-              : 'bg-teka-light text-teka-gray hover:bg-teka-blue/10 hover:text-teka-blue'
+              ? 'bg-teka-red text-white'
+              : 'bg-teka-light text-teka-gray hover:bg-teka-red/10 hover:text-teka-red'
           }`}
         >
           {cat}

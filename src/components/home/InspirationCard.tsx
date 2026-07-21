@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { motion } from 'framer-motion';
+import { motion, useReducedMotion } from 'framer-motion';
 import { Clock } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import type { Article } from '@/lib/types';
@@ -12,16 +12,18 @@ interface InspirationCardProps {
 }
 
 export function InspirationCard({ article, index }: InspirationCardProps) {
+  const prefersReducedMotion = useReducedMotion();
+
   return (
     <motion.div
-      initial={{ opacity: 0, y: 20 }}
+      initial={prefersReducedMotion ? false : { opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
-      transition={{ duration: 0.5, delay: index * 0.1 }}
+      transition={prefersReducedMotion ? { duration: 0 } : { duration: 0.5, delay: index * 0.1 }}
     >
       <Link
         href={`/inspiracao/${article.slug}`}
-        className="group block bg-white rounded border border-teka-border hover:border-teka-blue/30 hover:shadow-lg transition-all duration-300 overflow-hidden"
+        className="group block bg-white rounded border border-teka-border hover:border-teka-red/30 hover:shadow-lg transition-all duration-300 overflow-hidden"
       >
         <div className="aspect-[16/10] bg-teka-light overflow-hidden">
           {article.image ? (
@@ -45,7 +47,7 @@ export function InspirationCard({ article, index }: InspirationCardProps) {
               {article.readTime}
             </span>
           </div>
-          <h3 className="font-heading font-semibold text-lg text-teka-dark group-hover:text-teka-blue transition-colors line-clamp-2">
+          <h3 className="font-heading font-semibold text-lg text-teka-dark group-hover:text-teka-red transition-colors line-clamp-2">
             {article.title}
           </h3>
           <p className="text-sm text-teka-gray mt-2 line-clamp-2">

@@ -1,0 +1,98 @@
+import type { MenuItem } from '@/lib/types';
+
+export const mainNavigation: MenuItem[] = [
+  {
+    label: 'Novidades',
+    href: '/novidades',
+    featured: true,
+  },
+  {
+    label: 'Cozinha',
+    href: '/cozinha',
+    children: [
+      { label: 'Fornos', href: '/cozinha/fornos', description: 'Fornos de encastrar pirolíticos e multifunção', image: '/images/categories/fornos.jpg' },
+      { label: 'Micro-ondas', href: '/cozinha/micro-ondas', description: 'Microondas de encastrar e livre instalação', image: '/images/categories/microondas.jpg' },
+      { label: 'Máquina de café', href: '/cozinha/maquina-de-cafe', description: 'Máquinas de café de encastrar', image: '/images/categories/maquina-cafe.jpg' },
+      { label: 'Placas', href: '/cozinha/placas', description: 'Placas de indução, vitrocerâmica e gás', image: '/images/categories/placas.jpg' },
+      { label: 'Fogões', href: '/cozinha/fogoes-de-instalacao-livre', description: 'Fogões de livre instalação', image: '/images/categories/fogoes.jpg' },
+      { label: 'Exaustores', href: '/cozinha/exaustores', description: 'Exaustores de parede, tecto e integrados', image: '/images/categories/exaustores.jpg' },
+      { label: 'Frigoríficos', href: '/cozinha/frigorificos', description: 'Combinados, americanos e de encastrar', image: '/images/categories/frigorificos.jpg' },
+      { label: 'Garrafeiras', href: '/cozinha/garrafeiras', description: 'Garrafeiras de vinho', image: '/images/categories/garrafeiras.jpg' },
+      { label: 'Lava-louças', href: '/cozinha/lava-loucas', description: 'Lava-louças em inox e materiais compostos', image: '/images/categories/lava-loica.jpg' },
+      { label: 'Misturadoras', href: '/cozinha/misturadoras-de-cozinha', description: 'Torneiras e misturadoras de cozinha', image: '/images/categories/misturadoras.jpg' },
+      { label: 'Máquinas de lavar louça', href: '/cozinha/maquinas-de-lavar-louca', description: 'Máquinas de encastrar e livre instalação', image: '/images/categories/maquinas-loica.jpg' },
+      { label: 'Complementos', href: '/cozinha/complementos-de-cozinha', description: 'Complementos para a cozinha', image: '/images/categories/complementos.jpg' },
+      { label: 'Acessórios', href: '/cozinha/acessorios-de-cozinha', description: 'Acessórios para a sua cozinha Teka', image: '/images/categories/acessorios.jpg' },
+    ],
+  },
+  {
+    label: 'Lavandaria',
+    href: '/lavandaria',
+    children: [
+      { label: 'Máquinas de lavar roupa', href: '/lavandaria/maquinas-lavar-roupa', description: 'Máquinas de lavar roupa eficientes', image: '/images/categories/lavar-roupa.jpg' },
+      { label: 'Máquinas de secar', href: '/lavandaria/maquinas-secar', description: 'Secadores com bomba de calor', image: '/images/categories/secar.jpg' },
+      { label: 'Máquinas de lavar e secar', href: '/lavandaria/maquinas-lavar-secar', description: 'Soluções 2 em 1', image: '/images/categories/lavar-secar.jpg' },
+    ],
+  },
+  {
+    label: 'Termoacumuladores',
+    href: '/termoacumuladores',
+  },
+  {
+    label: 'Ar Condicionado',
+    href: '/ar-condicionado',
+    featured: true,
+    children: [
+      { label: 'Mono-Split', href: '/ar-condicionado/mono-split', description: 'Sistema individual para uma divisão' },
+      { label: 'Multi-Split', href: '/ar-condicionado/multi-split', description: 'Uma unidade exterior para várias divisões' },
+      { label: 'Simulador', href: '/ar-condicionado/simulador', description: 'Calcule a potência ideal' },
+    ],
+  },
+  {
+    label: 'Inspiração',
+    href: '/inspiracao',
+  },
+  {
+    label: 'Suporte',
+    href: '/suporte',
+    children: [
+      { label: 'FAQ', href: '/suporte/faq', description: 'Perguntas frequentes' },
+      { label: 'Garantias', href: '/suporte/garantias', description: 'Informação sobre garantias' },
+      { label: 'Assistência Técnica', href: '/suporte/assistencia-tecnica', description: 'Rede de assistência técnica' },
+      { label: 'Manuais e Catálogos', href: '/downloads', description: 'Centro de downloads' },
+      { label: 'Contacto', href: '/suporte/contacto', description: 'Formulário de contacto' },
+    ],
+  },
+  {
+    label: 'Guia de Compras',
+    href: '/guia-compras',
+  },
+];
+
+export const footerNavigation = {
+  produtos: [
+    { label: 'Cozinha', href: '/cozinha' },
+    { label: 'Lavandaria', href: '/lavandaria' },
+    { label: 'Termoacumuladores', href: '/termoacumuladores' },
+    { label: 'Ar Condicionado', href: '/ar-condicionado' },
+    { label: 'Novidades', href: '/novidades' },
+  ],
+  suporte: [
+    { label: 'FAQ', href: '/suporte/faq' },
+    { label: 'Garantias', href: '/suporte/garantias' },
+    { label: 'Assistência Técnica', href: '/suporte/assistencia-tecnica' },
+    { label: 'Manuais e Catálogos', href: '/downloads' },
+    { label: 'Contacto', href: '/suporte/contacto' },
+  ],
+  empresa: [
+    { label: 'Sobre a Teka', href: '/sobre' },
+    { label: 'Inspiração', href: '/inspiracao' },
+    { label: 'Guia de Compras', href: '/guia-compras' },
+    { label: 'Onde Comprar', href: '/onde-comprar' },
+  ],
+  legal: [
+    { label: 'Política de Privacidade', href: '/privacidade' },
+    { label: 'Termos e Condições', href: '/termos' },
+    { label: 'Política de Cookies', href: '/cookies' },
+  ],
+};

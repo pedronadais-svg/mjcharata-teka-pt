@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /carrinho/
+Disallow: /checkout/
+Disallow: /login/
+Disallow: /api/
+
+Sitemap: https://teka-angola.com/sitemap.xml

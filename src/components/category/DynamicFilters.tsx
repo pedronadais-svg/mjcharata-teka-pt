@@ -103,13 +103,13 @@ export function DynamicFilters({ products, filters, onFilter }: DynamicFiltersPr
                 onClick={() => setOpenDropdown(isOpen ? null : filter.id)}
                 className={`inline-flex items-center gap-2 px-4 py-2.5 border rounded text-sm transition-colors ${
                   activeCount > 0
-                    ? 'border-teka-blue bg-teka-blue/5 text-teka-blue'
+                    ? 'border-teka-red bg-teka-red/5 text-teka-red'
                     : 'border-teka-border text-teka-charcoal hover:border-teka-gray'
                 }`}
               >
                 {filter.label}
                 {activeCount > 0 && (
-                  <span className="bg-teka-blue text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+                  <span className="bg-teka-red text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
                     {activeCount}
                   </span>
                 )}
@@ -124,7 +124,7 @@ export function DynamicFilters({ products, filters, onFilter }: DynamicFiltersPr
                       return (
                         <label key={value} className="flex items-center gap-3 cursor-pointer group">
                           <div className={`w-4 h-4 rounded border-2 flex items-center justify-center transition-colors ${
-                            isChecked ? 'bg-teka-blue border-teka-blue' : 'border-teka-border group-hover:border-teka-gray'
+                            isChecked ? 'bg-teka-red border-teka-red' : 'border-teka-border group-hover:border-teka-gray'
                           }`}>
                             {isChecked && (
                               <svg className="w-2.5 h-2.5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>

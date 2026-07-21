@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-04-05",
+  "entries": [
+    {
+      "id": "kb-001",
+      "topic": "Garantia Angola",
+      "content": "Todos os produtos Teka distribuídos pela MDV em Angola têm garantia de 12 meses a partir da data de compra. A garantia cobre defeitos de fabrico e inclui peças e mão de obra. Não cobre danos causados por mau uso, instalação incorreta ou desgaste natural. Para ativar a garantia, o cliente deve guardar a fatura de compra."
+    },
+    {
+      "id": "kb-002",
+      "topic": "Entrega em Angola",
+      "content": "A entrega é feita em Luanda com prazo de 3-5 dias úteis após confirmação do pagamento. Para outras províncias, o prazo é de 7-15 dias úteis. A entrega inclui transporte até ao endereço indicado. A instalação não está incluída mas pode ser solicitada mediante orçamento."
+    },
+    {
+      "id": "kb-003",
+      "topic": "Assistência Técnica",
+      "content": "O serviço de assistência técnica está disponível em Luanda. Para outras províncias, a assistência é prestada através de técnicos parceiros. O contacto é pelo +244 933 302 752 ou teka@mdvmadeiras.com. O horário de atendimento é de segunda a sexta, das 8h às 17h."
+    },
+    {
+      "id": "kb-004",
+      "topic": "Métodos de Pagamento",
+      "content": "Aceitamos transferência bancária, pagamento por Multicaixa Express, e pagamento na entrega (apenas Luanda). Para encomendas superiores a 500.000 Kz, é possível pagamento em prestações mediante aprovação."
+    },
+    {
+      "id": "kb-005",
+      "topic": "Classificação Energética",
+      "content": "A Teka oferece eletrodomésticos com classificações energéticas de A+++ a D. Recomendamos sempre classe A+ ou superior para maior poupança. Eletrodomésticos de classe A+++ consomem até 60% menos energia que os de classe A."
+    }
+  ]
+}

@@ -7,9 +7,9 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-montserrat, "Montserrat"), ui-sans-serif, system-ui, sans-serif;
   --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
-  --font-heading: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: var(--font-montserrat, "Montserrat"), ui-sans-serif, system-ui, sans-serif;
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -47,18 +47,38 @@
   --radius-3xl: calc(var(--radius) * 2.2);
   --radius-4xl: calc(var(--radius) * 2.6);
 
-  /* Teka official brand colors */
-  --color-teka-blue: #2ea3f2;
-  --color-teka-blue-dark: #1a8ad8;
+  /* =============================================
+     PALETA OFICIAL TEKA — Extraída de teka.com/pt-pt
+     ============================================= */
+
+  /* Cor principal da marca — VERMELHO TEKA */
+  --color-teka-red: #C8102E;
+  --color-teka-red-dark: #A00D24;
+  --color-teka-red-light: #E8334D;
+
+  /* Cinzas e neutros (do site oficial) */
+  --color-teka-black: #0E0E0E;
   --color-teka-dark: #222222;
   --color-teka-charcoal: #333333;
-  --color-teka-gray: #666666;
-  --color-teka-light: #f5f5f5;
-  --color-teka-border: #e2e2e2;
-  --color-teka-white: #ffffff;
-  --color-teka-success: #27ae60;
-  --color-teka-warning: #f39c12;
-  --color-teka-error: #e74c3c;
+  --color-teka-gray: #515151;
+  --color-teka-gray-medium: #818181;
+  --color-teka-gray-light: #B2B2B2;
+  --color-teka-gray-border: #DCDCDC;
+  --color-teka-gray-bg: #F5F5F5;
+  --color-teka-light: #F5F5F5;
+  --color-teka-border: #DCDCDC;
+  --color-teka-white: #FFFFFF;
+
+  /* Footer */
+  --color-teka-footer-bg: #0E0E0E;
+  --color-teka-footer-text: #C8C8C8;
+  --color-teka-footer-heading: #DCDCDC;
+  --color-teka-footer-muted: #BBBBBB;
+
+  /* Cores de estado */
+  --color-teka-success: #27AE60;
+  --color-teka-warning: #F39C12;
+  --color-teka-error: #E74C3C;
   --color-teka-overlay: rgba(0, 0, 0, 0.6);
 }
 
@@ -69,7 +89,7 @@
   --card-foreground: oklch(0.25 0 0);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.25 0 0);
-  --primary: oklch(0.65 0.15 230);
+  --primary: oklch(0.45 0.22 25);
   --primary-foreground: oklch(1 0 0);
   --secondary: oklch(0.965 0 0);
   --secondary-foreground: oklch(0.25 0 0);
@@ -80,21 +100,21 @@
   --destructive: oklch(0.577 0.245 27.325);
   --border: oklch(0.91 0 0);
   --input: oklch(0.91 0 0);
-  --ring: oklch(0.65 0.15 230);
-  --chart-1: oklch(0.65 0.15 230);
+  --ring: oklch(0.45 0.22 25);
+  --chart-1: oklch(0.45 0.22 25);
   --chart-2: oklch(0.556 0 0);
   --chart-3: oklch(0.439 0 0);
   --chart-4: oklch(0.371 0 0);
   --chart-5: oklch(0.269 0 0);
-  --radius: 0.5rem;
+  --radius: 0.25rem;
   --sidebar: oklch(0.985 0 0);
   --sidebar-foreground: oklch(0.25 0 0);
-  --sidebar-primary: oklch(0.65 0.15 230);
+  --sidebar-primary: oklch(0.45 0.22 25);
   --sidebar-primary-foreground: oklch(1 0 0);
   --sidebar-accent: oklch(0.97 0 0);
   --sidebar-accent-foreground: oklch(0.25 0 0);
   --sidebar-border: oklch(0.91 0 0);
-  --sidebar-ring: oklch(0.65 0.15 230);
+  --sidebar-ring: oklch(0.45 0.22 25);
 }
 
 @layer base {
@@ -111,9 +131,25 @@
     @apply font-sans scroll-smooth;
   }
 
+  h1 {
+    @apply text-5xl font-bold leading-none tracking-normal;
+  }
+
+  h2 {
+    @apply text-3xl font-bold leading-snug;
+  }
+
+  h3 {
+    @apply text-2xl font-bold leading-none;
+  }
+
+  h4 {
+    @apply text-xs font-medium leading-none;
+  }
+
   /* WCAG: Focus visible outline on all interactive elements */
   :focus-visible {
-    outline: 2px solid var(--color-teka-blue);
+    outline: 2px solid var(--color-teka-red);
     outline-offset: 2px;
   }
 
@@ -172,13 +208,13 @@
 }
 
 .prose a {
-  color: var(--color-teka-blue);
+  color: var(--color-teka-red);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
 
 .prose a:hover {
-  color: var(--color-teka-blue-dark);
+  color: var(--color-teka-red-dark);
 }
 
 .prose strong {
@@ -227,7 +263,7 @@
 
 .prose blockquote {
   font-style: italic;
-  border-left: 4px solid var(--color-teka-blue);
+  border-left: 4px solid var(--color-teka-red);
   padding-left: 1em;
   margin-top: 1.6em;
   margin-bottom: 1.6em;
@@ -260,4 +296,19 @@
 
 .prose > :last-child {
   margin-bottom: 0;
+}
+
+/* Scrollbar customizada */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F5F5F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #C8C8C8;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #999999;
 }

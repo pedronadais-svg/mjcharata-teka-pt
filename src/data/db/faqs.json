@@ -1,0 +1,74 @@
+[
+  {
+    "id": "faq-1",
+    "question": "Como posso registar a garantia do meu produto Teka?",
+    "answer": "Pode registar a garantia através do nosso formulário online na secção de Suporte, ou contactando diretamente a assistência técnica com o comprovativo de compra e a referência do produto.",
+    "category": "Garantias"
+  },
+  {
+    "id": "faq-2",
+    "question": "Qual é o prazo de garantia dos produtos Teka?",
+    "answer": "Todos os produtos Teka distribuídos pela MDV em Angola têm uma garantia de 12 meses contra defeito de fabrico, mediante apresentação do comprovativo de compra.",
+    "category": "Garantias"
+  },
+  {
+    "id": "faq-3",
+    "question": "Onde posso encontrar o manual do meu eletrodoméstico?",
+    "answer": "Pode descarregar o manual na ficha de produto correspondente ou no nosso Centro de Downloads, pesquisando pela referência do seu equipamento.",
+    "category": "Documentação"
+  },
+  {
+    "id": "faq-4",
+    "question": "Como funciona a limpeza pirolítica?",
+    "answer": "A limpeza pirolítica aquece o interior do forno a cerca de 500°C, transformando os resíduos de gordura e alimentos em cinzas que depois basta limpar com um pano húmido.",
+    "category": "Utilização"
+  },
+  {
+    "id": "faq-5",
+    "question": "Que assistência técnica está disponível em Angola?",
+    "answer": "A MDV Angola dispõe de uma rede de técnicos autorizados Teka. Contacte-nos através do formulário de suporte ou pelo telefone para agendar uma visita técnica.",
+    "category": "Assistência"
+  },
+  {
+    "id": "faq-6",
+    "question": "Posso encomendar peças de substituição?",
+    "answer": "Sim, todas as peças de substituição originais Teka podem ser encomendadas através da MDV Angola. Contacte o suporte com a referência do produto e da peça necessária.",
+    "category": "Assistência"
+  },
+  {
+    "id": "faq-7",
+    "question": "Como funciona a entrega dos produtos?",
+    "answer": "A entrega é realizada pela rede logística da MDV em Luanda e províncias. O prazo depende da disponibilidade e localização. Contacte-nos para mais detalhes.",
+    "category": "Compras"
+  },
+  {
+    "id": "faq-8",
+    "question": "Posso devolver um produto comprado?",
+    "answer": "Sim, dentro de 14 dias após a compra, desde que o produto esteja na embalagem original e sem sinais de uso. Contacte o suporte para iniciar o processo.",
+    "category": "Compras"
+  },
+  {
+    "id": "faq-9",
+    "question": "Como escolher o forno ideal para a minha cozinha?",
+    "answer": "Considere o tipo de limpeza (pirolítica é a mais prática), a capacidade (70L para famílias), a classe energética e as funções especiais. Consulte o nosso Guia de Compras.",
+    "category": "Produtos"
+  },
+  {
+    "id": "faq-10",
+    "question": "Quais os tipos de placas disponíveis?",
+    "answer": "A Teka oferece placas de indução, vitrocerâmicas e a gás. As de indução são as mais eficientes e seguras, as de gás são ideais para quem prefere chama directa.",
+    "category": "Produtos"
+  },
+  {
+    "id": "faq-11",
+    "question": "Como manter o exaustor em boas condições?",
+    "answer": "Limpe os filtros de gordura mensalmente (são laváveis na máquina de lavar loiça). Substitua os filtros de carvão ativo a cada 3-6 meses se usar recirculação.",
+    "category": "Utilização"
+  },
+  {
+    "id": "faq-12",
+    "question": "Que cuidados ter com máquinas de lavar?",
+    "answer": "Use a dose correcta de detergente, faça uma lavagem a 90°C vazia mensalmente para limpeza, e deixe a porta entreaberta após cada lavagem para evitar humidade.",
+    "category": "Utilização"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "route": "/",
+    "title": "Eletrodomésticos de Cozinha & Lavandaria | Teka Angola",
+    "description": "Fornos, Placas, Exaustores, Frigoríficos, Máquinas de Lavar e mais. Qualidade alemã distribuída pela MDV em Angola.",
+    "ogImage": "/og-image.jpg"
+  },
+  {
+    "route": "/cozinha",
+    "title": "Cozinha — Eletrodomésticos Teka",
+    "description": "Fornos pirolíticos, placas de indução, exaustores e mais para a sua cozinha.",
+    "ogImage": ""
+  },
+  {
+    "route": "/lavandaria",
+    "title": "Lavandaria — Máquinas de Lavar e Secar Teka",
+    "description": "Máquinas de lavar roupa, secar e lavar e secar com tecnologia alemã.",
+    "ogImage": ""
+  },
+  {
+    "route": "/inspiracao",
+    "title": "Dicas, Receitas e Tendências de Cozinha | Inspiração Teka",
+    "description": "Artigos, receitas e tendências de cozinha e design em Angola.",
+    "ogImage": ""
+  },
+  {
+    "route": "/sobre",
+    "title": "Sobre a Teka Angola — MDV Madeiras e Derivados",
+    "description": "A história da Teka em Angola, distribuída pela MDV.",
+    "ogImage": ""
+  },
+  {
+    "route": "/suporte",
+    "title": "Suporte Teka Angola — Garantias e Assistência Técnica",
+    "description": "Perguntas frequentes, garantias, assistência técnica e contactos.",
+    "ogImage": ""
+  }
+]

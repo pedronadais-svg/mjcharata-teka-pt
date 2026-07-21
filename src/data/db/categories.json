@@ -1,0 +1,355 @@
+[
+  {
+    "id": "cozinha",
+    "slug": "cozinha",
+    "name": "Cozinha",
+    "description": "Eletrodomésticos de cozinha com tecnologia alemã e design premium.",
+    "image": "/images/categories/cozinha.jpg",
+    "banner": "/images/banners/cozinha-banner.jpg",
+    "subcategories": [
+      {
+        "id": "fornos",
+        "slug": "fornos",
+        "name": "Fornos",
+        "description": "Fornos pirolíticos, multifunção e vapor",
+        "image": "/images/categories/fornos.jpg",
+        "productCount": 52,
+        "children": [
+          {
+            "id": "fornos-micro-ondas",
+            "slug": "micro-ondas",
+            "name": "Micro-ondas"
+          },
+          {
+            "id": "fornos-compactos",
+            "slug": "compactos",
+            "name": "Compactos"
+          },
+          {
+            "id": "fornos-convencionais",
+            "slug": "convencionais",
+            "name": "Convencionais"
+          },
+          {
+            "id": "fornos-multifuncoes",
+            "slug": "multifuncoes",
+            "name": "Multifunções"
+          },
+          {
+            "id": "fornos-gavetas",
+            "slug": "gavetas-multiusos",
+            "name": "Gavetas Multiusos"
+          },
+          {
+            "id": "fornos-polivalentes",
+            "slug": "polivalentes",
+            "name": "Polivalentes"
+          },
+          {
+            "id": "fornos-vapor",
+            "slug": "vapor",
+            "name": "Vapor"
+          }
+        ]
+      },
+      {
+        "id": "microondas",
+        "slug": "micro-ondas",
+        "name": "Micro-ondas",
+        "description": "Microondas de encastrar e livre instalação",
+        "image": "/images/categories/microondas.jpg",
+        "productCount": 32,
+        "children": [
+          {
+            "id": "mo-baixo-bancada",
+            "slug": "baixo-bancada",
+            "name": "Baixo bancada"
+          },
+          {
+            "id": "mo-integracao",
+            "slug": "integracao",
+            "name": "Integração"
+          },
+          {
+            "id": "mo-instalacao-livre",
+            "slug": "instalacao-livre",
+            "name": "Instalação livre"
+          }
+        ]
+      },
+      {
+        "id": "maquina-cafe",
+        "slug": "maquina-de-cafe",
+        "name": "Máquina de café",
+        "description": "Máquinas de café de encastrar",
+        "image": "/images/categories/maquina-cafe.jpg",
+        "productCount": 5
+      },
+      {
+        "id": "placas",
+        "slug": "placas",
+        "name": "Placas",
+        "description": "Placas de indução, vitrocerâmica e gás",
+        "image": "/images/categories/placas.jpg",
+        "productCount": 64,
+        "children": [
+          {
+            "id": "placas-vitroceramica",
+            "slug": "vitroceramica",
+            "name": "Vitrocerâmica"
+          },
+          {
+            "id": "placas-gas",
+            "slug": "gas",
+            "name": "Gás"
+          },
+          {
+            "id": "placas-inducao",
+            "slug": "inducao",
+            "name": "Indução"
+          },
+          {
+            "id": "placas-mistas",
+            "slug": "mistas-gas-inducao",
+            "name": "Mistas Gás + Indução"
+          },
+          {
+            "id": "placas-polivalente",
+            "slug": "polivalente",
+            "name": "Polivalente"
+          }
+        ]
+      },
+      {
+        "id": "fogoes",
+        "slug": "fogoes-de-instalacao-livre",
+        "name": "Fogões de instalação livre",
+        "description": "Fogões de livre instalação com forno e placa",
+        "image": "/images/categories/fogoes.jpg",
+        "productCount": 0
+      },
+      {
+        "id": "exaustores",
+        "slug": "exaustores",
+        "name": "Exaustores",
+        "description": "Exaustores de parede, teto e integrados",
+        "image": "/images/categories/exaustores.jpg",
+        "productCount": 78,
+        "children": [
+          {
+            "id": "exaust-integracao",
+            "slug": "integracao",
+            "name": "Integração"
+          },
+          {
+            "id": "exaust-decorativas",
+            "slug": "decorativas",
+            "name": "Decorativas"
+          }
+        ]
+      },
+      {
+        "id": "frigorificos",
+        "slug": "frigorificos",
+        "name": "Frigoríficos",
+        "description": "Combinados, americanos e de encastrar",
+        "image": "/images/categories/frigorificos.jpg",
+        "productCount": 44,
+        "children": [
+          {
+            "id": "frig-frigorificos",
+            "slug": "frigorificos",
+            "name": "Frigorificos"
+          },
+          {
+            "id": "frig-arcas",
+            "slug": "arcas",
+            "name": "Arcas"
+          }
+        ]
+      },
+      {
+        "id": "garrafeiras",
+        "slug": "garrafeiras",
+        "name": "Garrafeiras",
+        "description": "Garrafeiras de vinho",
+        "image": "/images/categories/garrafeiras.jpg",
+        "productCount": 5
+      },
+      {
+        "id": "lava-loucas",
+        "slug": "lava-loucas",
+        "name": "Lava-louças",
+        "description": "Lava-louças em inox e materiais compostos",
+        "image": "/images/categories/lava-loica.jpg",
+        "productCount": 72,
+        "children": [
+          {
+            "id": "ll-aco",
+            "slug": "aco-inoxidavel",
+            "name": "Aço inoxidável"
+          },
+          {
+            "id": "ll-sintetico",
+            "slug": "sintetico",
+            "name": "Sintético"
+          },
+          {
+            "id": "ll-aco-vidro",
+            "slug": "aco-inoxidavel-vidro",
+            "name": "Aço inoxidável + Vidro"
+          }
+        ]
+      },
+      {
+        "id": "misturadoras",
+        "slug": "misturadoras-de-cozinha",
+        "name": "Misturadoras de cozinha",
+        "description": "Torneiras e misturadoras de cozinha",
+        "image": "/images/categories/misturadoras.jpg",
+        "productCount": 35,
+        "children": [
+          {
+            "id": "mist-cano-alto",
+            "slug": "cano-alto",
+            "name": "Cano alto"
+          },
+          {
+            "id": "mist-cano-baixo",
+            "slug": "cano-baixo",
+            "name": "Cano baixo"
+          },
+          {
+            "id": "mist-profissional",
+            "slug": "profissional",
+            "name": "Profissional"
+          },
+          {
+            "id": "mist-murais",
+            "slug": "murais",
+            "name": "Murais"
+          }
+        ]
+      },
+      {
+        "id": "maquinas-lavar-loica",
+        "slug": "maquinas-de-lavar-louca",
+        "name": "Máquinas de lavar louça",
+        "description": "Máquinas de encastrar e livre instalação",
+        "image": "/images/categories/maquinas-loica.jpg",
+        "productCount": 22,
+        "children": [
+          {
+            "id": "mll-integracao",
+            "slug": "integracao",
+            "name": "Integração"
+          },
+          {
+            "id": "mll-instalacao-livre",
+            "slug": "instalacao-livre",
+            "name": "Instalação livre"
+          },
+          {
+            "id": "mll-compactos",
+            "slug": "compactos",
+            "name": "Compactos"
+          }
+        ]
+      },
+      {
+        "id": "complementos",
+        "slug": "complementos-de-cozinha",
+        "name": "Complementos de cozinha",
+        "description": "Complementos e acessórios para a sua cozinha",
+        "image": "/images/categories/complementos.jpg",
+        "productCount": 10
+      },
+      {
+        "id": "acessorios",
+        "slug": "acessorios-de-cozinha",
+        "name": "Acessórios de cozinha",
+        "description": "Acessórios para a sua cozinha Teka",
+        "image": "/images/categories/acessorios.jpg",
+        "productCount": 85
+      }
+    ]
+  },
+  {
+    "id": "lavandaria",
+    "slug": "lavandaria",
+    "name": "Lavandaria",
+    "description": "Soluções completas para o tratamento de roupa.",
+    "image": "/images/categories/lavandaria.jpg",
+    "banner": "/images/banners/lavandaria-banner.jpg",
+    "subcategories": [
+      {
+        "id": "maquinas-lavar-roupa",
+        "slug": "maquinas-lavar-roupa",
+        "name": "Máquinas de lavar roupa",
+        "description": "Eficiência e cuidado com a roupa",
+        "image": "/images/categories/lavar-roupa.jpg",
+        "productCount": 12
+      },
+      {
+        "id": "maquinas-secar",
+        "slug": "maquinas-secar",
+        "name": "Máquinas de secar roupa",
+        "description": "Secadores com bomba de calor",
+        "image": "/images/categories/secar.jpg",
+        "productCount": 2
+      },
+      {
+        "id": "maquinas-lavar-secar",
+        "slug": "maquinas-lavar-secar",
+        "name": "Máquinas de lavar e secar roupa",
+        "description": "Soluções 2 em 1",
+        "image": "/images/categories/lavar-secar.jpg",
+        "productCount": 2
+      }
+    ]
+  },
+  {
+    "id": "termoacumuladores",
+    "slug": "termoacumuladores",
+    "name": "Termoacumuladores",
+    "description": "Soluções de água quente para toda a casa.",
+    "image": "/images/categories/termoacumuladores.jpg",
+    "banner": "/images/banners/termoacumuladores-banner.jpg",
+    "subcategories": [
+      {
+        "id": "termoacumuladores",
+        "slug": "termoacumuladores",
+        "name": "Termoacumuladores",
+        "description": "Água quente com eficiência",
+        "image": "/images/categories/termoacumuladores.jpg",
+        "productCount": 10
+      }
+    ]
+  },
+  {
+    "id": "ar-condicionado",
+    "slug": "ar-condicionado",
+    "name": "Ar Condicionado",
+    "description": "Gama AUREA de ar condicionado Teka. Conforto inteligente para toda a casa.",
+    "image": "/images/categories/ar-condicionado.jpg",
+    "banner": "/images/banners/ar-condicionado-banner.jpg",
+    "subcategories": [
+      {
+        "id": "mono-split",
+        "slug": "mono-split",
+        "name": "Mono-Split",
+        "description": "Sistema individual para climatizar uma divisão",
+        "image": "/images/categories/mono-split.jpg",
+        "productCount": 8
+      },
+      {
+        "id": "multi-split",
+        "slug": "multi-split",
+        "name": "Multi-Split",
+        "description": "Uma unidade exterior para várias divisões",
+        "image": "/images/categories/multi-split.jpg",
+        "productCount": 2
+      }
+    ]
+  }
+]

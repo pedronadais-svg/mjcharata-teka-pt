@@ -39,3 +39,25 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude code local tooling (not part of the app)
+.claude/
+
+# internal documents — not meant for the public repo
+AUDITORIA-*.xlsx
+AUDITORIA-*.docx
+CATALOGO ARTIGOS.xlsx
+PROMPT-*.md
+TabelaPreços_ArCondicionado_*
+folheto_ar_condicionado_*.pdf
+analise-melhorias.js
+teka-urls.txt
+start-site.bat
+
+# manuais/documentos PDF (3.3GB) — inviável no git, mover para storage
+# externo (CDN/bucket) antes de repor os links de download no site
+public/documents/
+
+# guarda a API key da Anthropic escrita pelo admin em /admin/chatbot —
+# nunca deve ir para o git (usar sempre a env var ANTHROPIC_API_KEY em produção)
+src/data/chatbot/ai-config.json

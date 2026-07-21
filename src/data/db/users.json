@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin-1",
+    "email": "admin@mdvmadeiras.com",
+    "name": "Administrador MDV",
+    "company": "MDV — Madeiras e Derivados",
+    "role": "admin",
+    "passwordHash": "$2b$12$.qm7N6PIbmZs8K8tPOB1kuLDvnett5WQq3ILSdBGN2iASGtQUKQLa",
+    "isActive": true,
+    "createdAt": "2026-04-05T19:45:22.166Z"
+  },
+  {
+    "id": "dist-1",
+    "email": "distribuidor@exemplo.com",
+    "name": "Distribuidor Demo",
+    "company": "Empresa Distribuidora Lda.",
+    "role": "distributor",
+    "passwordHash": "$2b$12$ve1idtw2EjlzuC89OaIBV.6jSu64Dd.BS1TNnPSKBK8j5T.llJ.wK",
+    "isActive": true,
+    "createdAt": "2026-04-05T19:45:22.166Z"
+  }
+]

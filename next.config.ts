@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'www.teka.com',
-        pathname: '/pt-pt/wp-content/uploads/**',
+        pathname: '/**/wp-content/uploads/**',
       },
       {
         protocol: 'https',

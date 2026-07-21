@@ -1,0 +1,4592 @@
+[
+  {
+    "sku": "111000096",
+    "name": "Forno Multif. Pirolítico HLB 84-VG P EASY STEAM - DE2",
+    "ean": "8434778034370",
+    "refPhc": "TK111000096",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "111000094",
+    "name": "Forno Multif. HLB 84-VG EASY STEAM - DE2",
+    "ean": "8434778034356",
+    "refPhc": "TK111000094",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 879000
+  },
+  {
+    "sku": "112030021",
+    "name": "Micro-ondas ML 82-VG BIS L - DE2",
+    "ean": "8434778034400",
+    "refPhc": "TK112030021",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 779000
+  },
+  {
+    "sku": "112510047",
+    "name": "Placa Indução IBF 95-VG FST - DE2",
+    "ean": "8434778031652",
+    "refPhc": "TK112510047",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "112510049",
+    "name": "Placa Indução IBF 64-VG FST - DE2",
+    "ean": "8434778031676",
+    "refPhc": "TK112510049",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 959000
+  },
+  {
+    "sku": "112570243",
+    "name": "Placa Gás GBC 75-VG - DE2",
+    "ean": "8434778032376",
+    "refPhc": "TK112570243",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 929000
+  },
+  {
+    "sku": "112930075",
+    "name": "Chaminé DVT 98660-VG TOS - DE2",
+    "ean": "8434778035124",
+    "refPhc": "TK112930075",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 879000
+  },
+  {
+    "sku": "112930074",
+    "name": "Chaminé DVT 78660-VG TOS - DE2",
+    "ean": "8434778035117",
+    "refPhc": "TK112930074",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 799000
+  },
+  {
+    "sku": "113400045",
+    "name": "Frigorífico Combinado RBF 88670-VG - DE2",
+    "ean": "8434778035360",
+    "refPhc": "TK113400045",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1899000
+  },
+  {
+    "sku": "111000080",
+    "name": "Forno Multif. Pirolítico HLB 84-G1 P BM - DE1",
+    "ean": "8434778030150",
+    "refPhc": "TK111000080",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "111000079",
+    "name": "Forno Multif. HLB 84-G1 BM - DE1",
+    "ean": "8434778030143",
+    "refPhc": "TK111000079",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect",
+    "priceAOA": 919000
+  },
+  {
+    "sku": "111160026",
+    "name": "Forno Compacto MWC HLC 84-G1 C BM - DE1",
+    "ean": "8434778028119",
+    "refPhc": "TK111160026",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect",
+    "priceAOA": 1699000
+  },
+  {
+    "sku": "111630007",
+    "name": "Máquina de Café CLC 85-G1 GM BM - DE1",
+    "ean": "8434778028027",
+    "refPhc": "TK111630007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Maq_cafe",
+    "priceAOA": 2799000
+  },
+  {
+    "sku": "112030009",
+    "name": "Micro-ondas ML 82-G1 BIS L BM - DE1",
+    "ean": "8434778022445",
+    "refPhc": "TK112030009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 889000
+  },
+  {
+    "sku": "111490016",
+    "name": "Kit frontal VS/CP-G1 BM - DE1",
+    "ean": "8434778022438",
+    "refPhc": "TK111490016",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Gaveta_partes",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "112500061",
+    "name": "Placa Indução IBF 95-G1 MSP BM - DE1",
+    "ean": "8434778030402",
+    "refPhc": "TK112500061",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1699000
+  },
+  {
+    "sku": "112510038",
+    "name": "Placa Indução IBF 64-G1 MSP BM - DE1",
+    "ean": "8434778022827",
+    "refPhc": "TK112510038",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "112570210",
+    "name": "Placa Gás GBC 75-G1 BM - DE1",
+    "ean": "8434778022612",
+    "refPhc": "TK112570210",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "112930071",
+    "name": "Chaminé DVI 98-G1 EOS BM - DE1",
+    "ean": "8434778031737",
+    "refPhc": "TK112930071",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "113060002",
+    "name": "Exaustor CNL 6415 PLUS-G1 BM - DE1",
+    "ean": "8434778033076",
+    "refPhc": "TK113060002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 369000
+  },
+  {
+    "sku": "111200001",
+    "name": "Forno Multif. Vapor HLB 8550 SC STEAMGOURMET BK",
+    "ean": "8434778024777",
+    "refPhc": "TK111200001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_vapor",
+    "priceAOA": 1799000
+  },
+  {
+    "sku": "111000083",
+    "name": "Forno Multif. Pirolítico HLB 8418 P S EASY STEAM BK",
+    "ean": "8434778031003",
+    "refPhc": "TK111000083",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_vapor",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "111000081",
+    "name": "Forno Multif. HLB 8408 S EASY STEAM BK",
+    "ean": "8434778030983",
+    "refPhc": "TK111000081",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_vapor",
+    "priceAOA": 839000
+  },
+  {
+    "sku": "111010083",
+    "name": "Forno Multif. HSB 6468 EASY STEAM SS",
+    "ean": "8434778034127",
+    "refPhc": "TK111010083",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_vapor",
+    "priceAOA": 809000
+  },
+  {
+    "sku": "111000037",
+    "name": "Forno Multif. Pirolítico STEAKMASTER BK",
+    "ean": "8434778012583",
+    "refPhc": "TK111000037",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 1799000
+  },
+  {
+    "sku": "111000073",
+    "name": "Forno Multif. Pirolítico STEAKMASTER LITE BK",
+    "ean": "8434778026597",
+    "refPhc": "TK111000073",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 1699000
+  },
+  {
+    "sku": "111000047",
+    "name": "Forno Multif. Pirolítico HLB 8700 P AIRFRY BK - TEKA HOME",
+    "ean": "8434778017496",
+    "refPhc": "TK111000047",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 1399000
+  },
+  {
+    "sku": "111000046",
+    "name": "Forno Multif. Pirolítico HLB 8510 P MAESTRO PIZZA BK",
+    "ean": "8434778017489",
+    "refPhc": "TK111000046",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "111000074",
+    "name": "Forno Multif. Pirolítico HLB 8406 P AIRFRY BK",
+    "ean": "8434778027679",
+    "refPhc": "TK111000074",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "111000008",
+    "name": "Forno Multif. Pirolítico HLB 8400 P BK",
+    "ean": "8434778007602",
+    "refPhc": "TK111000008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 979000
+  },
+  {
+    "sku": "111000007",
+    "name": "Forno Multif. Pirolítico HLB 8400 P WH",
+    "ean": "8434778007596",
+    "refPhc": "TK111000007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 979000
+  },
+  {
+    "sku": "111000054",
+    "name": "Forno Multif. Pirolítico HLB 8300 P BK",
+    "ean": "8434778019681",
+    "refPhc": "TK111000054",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 909000
+  },
+  {
+    "sku": "111010090",
+    "name": "Forno Multif. Pirolítico HSB 6360 P SS",
+    "ean": "8434778034196",
+    "refPhc": "TK111010090",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 879000
+  },
+  {
+    "sku": "111010085",
+    "name": "Forno Multif. Pirolítico HSB 6350 P SS",
+    "ean": "8434778034141",
+    "refPhc": "TK111010085",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 869000
+  },
+  {
+    "sku": "111020035",
+    "name": "Forno Multif. Pirolítico HCB 6535 P SS",
+    "ean": "8434778013177",
+    "refPhc": "TK111020035",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_dualcl",
+    "priceAOA": 809000
+  },
+  {
+    "sku": "111000010",
+    "name": "Forno Multif. HLB 8600 BK",
+    "ean": "8434778008265",
+    "refPhc": "TK111000010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "111000045",
+    "name": "Forno Multif. HLB 8416 AIRFRY BK",
+    "ean": "8434778017427",
+    "refPhc": "TK111000045",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 869000
+  },
+  {
+    "sku": "111000076",
+    "name": "Forno Multif. HLB 8400 FBK",
+    "ean": "8434778030020",
+    "refPhc": "TK111000076",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 769000
+  },
+  {
+    "sku": "111000005",
+    "name": "Forno Multif. HLB 8400 BK",
+    "ean": "8434778007572",
+    "refPhc": "TK111000005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 739000
+  },
+  {
+    "sku": "111000004",
+    "name": "Forno Multif. HLB 8400 WH",
+    "ean": "8434778007565",
+    "refPhc": "TK111000004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 729000
+  },
+  {
+    "sku": "111000006",
+    "name": "Forno Multif. HLB 8400 ST",
+    "ean": "8434778007589",
+    "refPhc": "TK111000006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 739000
+  },
+  {
+    "sku": "111000053",
+    "name": "Forno Multif. HLB 8300 BK",
+    "ean": "8434778019674",
+    "refPhc": "TK111000053",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 669000
+  },
+  {
+    "sku": "111010081",
+    "name": "Forno Multif. HSB 6466 AIRFRY SS",
+    "ean": "8434778034103",
+    "refPhc": "TK111010081",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 809000
+  },
+  {
+    "sku": "111010101",
+    "name": "Forno Multif. HSB 6466 AIRFRY FBK",
+    "ean": "8434778035513",
+    "refPhc": "TK111010101",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 809000
+  },
+  {
+    "sku": "111010075",
+    "name": "Forno Multif. HSB 6450 SS",
+    "ean": "8434778034042",
+    "refPhc": "TK111010075",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "111010067",
+    "name": "Forno Multif. HSB 6350 SS",
+    "ean": "8434778033960",
+    "refPhc": "TK111010067",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 569000
+  },
+  {
+    "sku": "111010071",
+    "name": "Forno Multif. HSB 6350 FBK",
+    "ean": "8434778034004",
+    "refPhc": "TK111010071",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 609000
+  },
+  {
+    "sku": "111010070",
+    "name": "Forno Multif. HSB 6350 WH",
+    "ean": "8434778033991",
+    "refPhc": "TK111010070",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 609000
+  },
+  {
+    "sku": "111010096",
+    "name": "Forno Multif. HSB 6266 AIRFRY SS",
+    "ean": "8434778035469",
+    "refPhc": "TK111010096",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 599000
+  },
+  {
+    "sku": "111010059",
+    "name": "Forno Multif. HSB 6150 SS",
+    "ean": "8434778033885",
+    "refPhc": "TK111010059",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "111010063",
+    "name": "Forno Multif. HSB 6150 FBK",
+    "ean": "8434778033922",
+    "refPhc": "TK111010063",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "111010062",
+    "name": "Forno Multif. HSB 6150 WH",
+    "ean": "8434778033915",
+    "refPhc": "TK111010062",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "111020088",
+    "name": "Forno Multif. HBB 6050 SS",
+    "ean": "8434778034790",
+    "refPhc": "TK111020088",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "111020080",
+    "name": "Forno Convencional HBB 5350 SS",
+    "ean": "8434778034714",
+    "refPhc": "TK111020080",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "111020077",
+    "name": "Forno Convencional HBB 4350 SS",
+    "ean": "8434778034684",
+    "refPhc": "TK111020077",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_hydrocl",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "111050000",
+    "name": "Forno Gás HBB 724 G SS",
+    "ean": "8434778000054",
+    "refPhc": "TK111050000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_gas",
+    "priceAOA": 909000
+  },
+  {
+    "sku": "111280003",
+    "name": "Forno Multif. HBE 615 ME SS",
+    "ean": "8434778005400",
+    "refPhc": "TK111280003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_poli",
+    "priceAOA": 669000
+  },
+  {
+    "sku": "111010010",
+    "name": "Forno Multif. HRB 6300 ANTRACITE",
+    "ean": "8434778008616",
+    "refPhc": "TK111010010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_country",
+    "priceAOA": 849000
+  },
+  {
+    "sku": "111060002",
+    "name": "Forno Multif. HLF 9400 BK",
+    "ean": "8434778032888",
+    "refPhc": "TK111060002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_gama900",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "111070000",
+    "name": "Forno Multif. HSF 9000 SS",
+    "ean": "8434778034264",
+    "refPhc": "TK111070000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_gama900",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "111130009",
+    "name": "Forno Compacto HLC 8406 AIRFRY BK",
+    "ean": "8434778026535",
+    "refPhc": "TK111130009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 949000
+  },
+  {
+    "sku": "111130002",
+    "name": "Forno Compacto HLC 8400 WH",
+    "ean": "8434778007626",
+    "refPhc": "TK111130002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 909000
+  },
+  {
+    "sku": "111130004",
+    "name": "Forno Compacto HLC 8400 ST",
+    "ean": "8434778007640",
+    "refPhc": "TK111130004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 909000
+  },
+  {
+    "sku": "111160028",
+    "name": "Forno Compacto MWC HLC 8440 C FBK",
+    "ean": "8434778030051",
+    "refPhc": "TK111160028",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "111160034",
+    "name": "Forno Compacto MWC HLC 8440 C BK",
+    "ean": "8434778033274",
+    "refPhc": "TK111160034",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "111160024",
+    "name": "Micro-ondas Compacto grill MLC 8440 BK",
+    "ean": "8434778028096",
+    "refPhc": "TK111160024",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "111160025",
+    "name": "Micro-ondas Compacto grill MLC 8440 ST",
+    "ean": "8434778028102",
+    "refPhc": "TK111160025",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "111140003",
+    "name": "Forno Compacto HSC 6350 SS",
+    "ean": "8434778034226",
+    "refPhc": "TK111140003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 709000
+  },
+  {
+    "sku": "111170002",
+    "name": "Forno Compacto MWC HSC 6440 C SS",
+    "ean": "8434778034240",
+    "refPhc": "TK111170002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_forno_elect_enc",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "111630004",
+    "name": "Máquina de Café CLC 855 GM BK",
+    "ean": "8434778010541",
+    "refPhc": "TK111630004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Maq_cafe_enc",
+    "priceAOA": 2699000
+  },
+  {
+    "sku": "111630005",
+    "name": "Máquina de Café CLC 8350 MC BK",
+    "ean": "8434778019704",
+    "refPhc": "TK111630005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Maq_cafe_enc",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "111600004",
+    "name": "Gaveta Multiusos VS 1520 GS",
+    "ean": "8434778008913",
+    "refPhc": "TK111600004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Gaveta_multiusos",
+    "priceAOA": 759000
+  },
+  {
+    "sku": "111600003",
+    "name": "Gaveta Aquecimento CP 150 GS",
+    "ean": "8434778008906",
+    "refPhc": "TK111600003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Gaveta_aquecimento",
+    "priceAOA": 559000
+  },
+  {
+    "sku": "111890002",
+    "name": "Kit frontal VS/CP BK",
+    "ean": "8434778008487",
+    "refPhc": "TK111890002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Gaveta_partes",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "111890003",
+    "name": "Kit frontal VS/CP TEKA WH",
+    "ean": "8434778008494",
+    "refPhc": "TK111890003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Gaveta_partes",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "111890004",
+    "name": "Kit frontal VS/CP TEKA ST",
+    "ean": "8434778008500",
+    "refPhc": "TK111890004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Gaveta_partes",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "112030017",
+    "name": "Micro-ondas ML 8220 BIS L FBK",
+    "ean": "8434778030075",
+    "refPhc": "TK112030017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 819000
+  },
+  {
+    "sku": "112030001",
+    "name": "Micro-ondas ML 8220 BIS L BK",
+    "ean": "8434778007688",
+    "refPhc": "TK112030001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 809000
+  },
+  {
+    "sku": "112030000",
+    "name": "Micro-ondas ML 8220 BIS L WH",
+    "ean": "8434778007671",
+    "refPhc": "TK112030000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 809000
+  },
+  {
+    "sku": "112030002",
+    "name": "Micro-ondas ML 8220 BIS L ST",
+    "ean": "8434778007695",
+    "refPhc": "TK112030002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 809000
+  },
+  {
+    "sku": "112040012",
+    "name": "Micro-ondas MS 6226 BIS L SS",
+    "ean": "8434778035575",
+    "refPhc": "TK112040012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 799000
+  },
+  {
+    "sku": "112040007",
+    "name": "Micro-ondas MS 6220 BIS R SS",
+    "ean": "8434778034455",
+    "refPhc": "TK112040007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 789000
+  },
+  {
+    "sku": "112040006",
+    "name": "Micro-ondas MS 6220 BIS L SS",
+    "ean": "8434778034448",
+    "refPhc": "TK112040006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 789000
+  },
+  {
+    "sku": "112040011",
+    "name": "Micro-ondas MS 6220 BIS L FBK",
+    "ean": "8434778035568",
+    "refPhc": "TK112040011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 789000
+  },
+  {
+    "sku": "112040009",
+    "name": "Micro-ondas MS 6220 BI L SS",
+    "ean": "8434778034479",
+    "refPhc": "TK112040009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 619000
+  },
+  {
+    "sku": "112060008",
+    "name": "Micro-ondas ML 8210 BIS BK",
+    "ean": "8434778032130",
+    "refPhc": "TK112060008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "112060009",
+    "name": "Micro-ondas ML 8210 BIS WH",
+    "ean": "8434778032147",
+    "refPhc": "TK112060009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "112060005",
+    "name": "Micro-ondas MLEG 820 FI BK",
+    "ean": "8434778029406",
+    "refPhc": "TK112060005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 439000
+  },
+  {
+    "sku": "112060011",
+    "name": "Micro-ondas ML 8200 BI FBK",
+    "ean": "8434778032253",
+    "refPhc": "TK112060011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 469000
+  },
+  {
+    "sku": "112060010",
+    "name": "Micro-ondas ML 8200 BI BK",
+    "ean": "8434778032246",
+    "refPhc": "TK112060010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "112010002",
+    "name": "Micro-ondas MSEG 825 SS",
+    "ean": "8434778029437",
+    "refPhc": "TK112010002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 359000
+  },
+  {
+    "sku": "112070008",
+    "name": "Micro-ondas MS 6200 BIS SS",
+    "ean": "8434778035582",
+    "refPhc": "TK112070008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 419000
+  },
+  {
+    "sku": "112070012",
+    "name": "Micro-ondas MS 6200 BIH SS",
+    "ean": "8434778035629",
+    "refPhc": "TK112070012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 409000
+  },
+  {
+    "sku": "112080002",
+    "name": "Micro-ondas MB 6200 BI SS",
+    "ean": "8434778035643",
+    "refPhc": "TK112080002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 389000
+  },
+  {
+    "sku": "112080004",
+    "name": "Micro-ondas MB 6200 BI WH",
+    "ean": "8434778035667",
+    "refPhc": "TK112080004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_enc",
+    "priceAOA": 389000
+  },
+  {
+    "sku": "112240003",
+    "name": "Micro-ondas HMWE FS23 GC AirFry BK",
+    "ean": "8434778029284",
+    "refPhc": "TK112240003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 299000
+  },
+  {
+    "sku": "112240006",
+    "name": "Micro-ondas MWE FS25 G SS",
+    "ean": "8434778029376",
+    "refPhc": "TK112240006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 199000
+  },
+  {
+    "sku": "112240004",
+    "name": "Micro-ondas MWE FS25 G BK",
+    "ean": "8434778029352",
+    "refPhc": "TK112240004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 189000
+  },
+  {
+    "sku": "112240005",
+    "name": "Micro-ondas MWE FS25 G WH",
+    "ean": "8434778029369",
+    "refPhc": "TK112240005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 189000
+  },
+  {
+    "sku": "112270004",
+    "name": "Micro-ondas MWE FS20 G SS",
+    "ean": "8434778029345",
+    "refPhc": "TK112270004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 169000
+  },
+  {
+    "sku": "112280007",
+    "name": "Micro-ondas MW FS20 G BK",
+    "ean": "8434778029307",
+    "refPhc": "TK112280007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 139000
+  },
+  {
+    "sku": "112280008",
+    "name": "Micro-ondas MW FS20 G WH",
+    "ean": "8434778029314",
+    "refPhc": "TK112280008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "112080001",
+    "name": "Micro-ondas MW FS20 BK",
+    "ean": "8434778035070",
+    "refPhc": "TK112080001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "112280006",
+    "name": "Micro-ondas MW FS20 WH",
+    "ean": "8434778029291",
+    "refPhc": "TK112280006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_microondas_livre",
+    "priceAOA": 119000
+  },
+  {
+    "sku": "112730000",
+    "name": "Placa Indução com exaustão AFF 87601 MST BK",
+    "ean": "8434778024982",
+    "refPhc": "TK112730000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 2899000
+  },
+  {
+    "sku": "112500044",
+    "name": "Placa Indução IZF 99770 BK MST - TEKA HOME",
+    "ean": "8434778017649",
+    "refPhc": "TK112500044",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1999000
+  },
+  {
+    "sku": "112500043",
+    "name": "Placa Indução IZF 88770 BK MST - TEKA HOME",
+    "ean": "8434778017632",
+    "refPhc": "TK112500043",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "112500042",
+    "name": "Placa Indução IZF 68770 BK MST - TEKA HOME",
+    "ean": "8434778017625",
+    "refPhc": "TK112500042",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "112500037",
+    "name": "Placa Indução IZF 68700 BK MST",
+    "ean": "8434778016208",
+    "refPhc": "TK112500037",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "112500034",
+    "name": "Placa Indução IZS 97630 BK MST",
+    "ean": "8434778012057",
+    "refPhc": "TK112500034",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "112500030",
+    "name": "Placa Indução IZS 86630 BK MST",
+    "ean": "8434778011869",
+    "refPhc": "TK112500030",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "112500035",
+    "name": "Placa Indução IZF 64600 BK MSP",
+    "ean": "8434778013108",
+    "refPhc": "TK112500035",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 839000
+  },
+  {
+    "sku": "112510019",
+    "name": "Placa Indução IZF 64440 BK MSP",
+    "ean": "8434778011821",
+    "refPhc": "TK112510019",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 779000
+  },
+  {
+    "sku": "112500039",
+    "name": "Placa Indução IZC 83620 BK MST",
+    "ean": "8434778017335",
+    "refPhc": "TK112500039",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "112500022",
+    "name": "Placa Indução IZC 64630 BK MST",
+    "ean": "8434778011722",
+    "refPhc": "TK112500022",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 909000
+  },
+  {
+    "sku": "112500027",
+    "name": "Placa Indução IZC 64630 WH MST",
+    "ean": "8434778011777",
+    "refPhc": "TK112500027",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "112500023",
+    "name": "Placa Indução ITC 64630 BK MST",
+    "ean": "8434778011739",
+    "refPhc": "TK112500023",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 979000
+  },
+  {
+    "sku": "112500017",
+    "name": "Placa Indução IZC 63630 BK MST",
+    "ean": "8434778011593",
+    "refPhc": "TK112500017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 909000
+  },
+  {
+    "sku": "112510017",
+    "name": "Placa Indução IZC 64320 BK MSP",
+    "ean": "8434778011784",
+    "refPhc": "TK112510017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 749000
+  },
+  {
+    "sku": "112520015",
+    "name": "Placa Indução IZC 64010 BK MSS",
+    "ean": "8434778012491",
+    "refPhc": "TK112520015",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 679000
+  },
+  {
+    "sku": "112570114",
+    "name": "Placa Indugás JZC 95314 ABN BK",
+    "ean": "8434778011258",
+    "refPhc": "TK112570114",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "112570113",
+    "name": "Placa Indugás JZC 64322 ABN BK",
+    "ean": "8434778011241",
+    "refPhc": "TK112570113",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "112610036",
+    "name": "Placa Mista EFX 60.1 2G 2H AI AL BTN",
+    "ean": "8434778018967",
+    "refPhc": "TK112610036",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 599000
+  },
+  {
+    "sku": "10210002",
+    "name": "Placa Vitrocerâmica TR 951",
+    "ean": "8421152086308",
+    "refPhc": "TK10210002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 909000
+  },
+  {
+    "sku": "112540012",
+    "name": "Placa Vitrocerâmica TBC 64320 TTC BK",
+    "ean": "8434778035179",
+    "refPhc": "TK112540012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "40239040",
+    "name": "Placa Vitrocerâmica TZ PRO 6415",
+    "ean": "8421152148266",
+    "refPhc": "TK40239040",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 419000
+  },
+  {
+    "sku": "40239041",
+    "name": "Placa Vitrocerâmica TT PRO 6415",
+    "ean": "8421152148273",
+    "refPhc": "TK40239041",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 459000
+  },
+  {
+    "sku": "40239030",
+    "name": "Placa Vitrocerâmica TZ PRO 6315",
+    "ean": "8421152148211",
+    "refPhc": "TK40239030",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 379000
+  },
+  {
+    "sku": "112540010",
+    "name": "Placa Vitrocerâmica TCC 64310 TTC BK",
+    "ean": "8434778026368",
+    "refPhc": "TK112540010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 609000
+  },
+  {
+    "sku": "112570187",
+    "name": "Placa Gás GZC 95320 XBA BK",
+    "ean": "8434778019360",
+    "refPhc": "TK112570187",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "112570188",
+    "name": "Placa Gás GZC 75330 XBA BK",
+    "ean": "8434778019377",
+    "refPhc": "TK112570188",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 929000
+  },
+  {
+    "sku": "112570189",
+    "name": "Placa Gás GZC 75330 XBA ST",
+    "ean": "8434778019384",
+    "refPhc": "TK112570189",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 959000
+  },
+  {
+    "sku": "112570191",
+    "name": "Placa Gás GZC 64320 XBA BK",
+    "ean": "8434778019407",
+    "refPhc": "TK112570191",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 649000
+  },
+  {
+    "sku": "112570190",
+    "name": "Placa Gás GZC 64320 XBA WH",
+    "ean": "8434778019391",
+    "refPhc": "TK112570190",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "112570192",
+    "name": "Placa Gás GZC 64320 XBA ST",
+    "ean": "8434778019414",
+    "refPhc": "TK112570192",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "112570194",
+    "name": "Placa Gás GZC 64300 XBA BK",
+    "ean": "8434778019438",
+    "refPhc": "TK112570194",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 609000
+  },
+  {
+    "sku": "112570195",
+    "name": "Placa Gás GZC 63310 XBA BK",
+    "ean": "8434778019445",
+    "refPhc": "TK112570195",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 629000
+  },
+  {
+    "sku": "112610048",
+    "name": "Placa Gás EFX 60.1 4G AI AL DR CI BTN",
+    "ean": "8434778019582",
+    "refPhc": "TK112610048",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "112610045",
+    "name": "Placa Gás EX 90.1 5G AI AL DR LEFT CI BTN",
+    "ean": "8434778019551",
+    "refPhc": "TK112610045",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "112610043",
+    "name": "Placa Gás EX 70.1 5G AI AL DR CI BTN",
+    "ean": "8434778019537",
+    "refPhc": "TK112610043",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 609000
+  },
+  {
+    "sku": "112610042",
+    "name": "Placa Gás EX 60.1 4G AI AL DR CI BTN",
+    "ean": "8434778019520",
+    "refPhc": "TK112610042",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 459000
+  },
+  {
+    "sku": "112610041",
+    "name": "Placa Gás EX 60.1 4G AI AL CI BTN",
+    "ean": "8434778019513",
+    "refPhc": "TK112610041",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 429000
+  },
+  {
+    "sku": "112620029",
+    "name": "Placa Gás HLX 640 KBC0E BK",
+    "ean": "8434778024517",
+    "refPhc": "TK112620029",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 289000
+  },
+  {
+    "sku": "112620017",
+    "name": "Placa Gás E 60.3 40 LBA0E BTN",
+    "ean": "8434778022711",
+    "refPhc": "TK112620017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 319000
+  },
+  {
+    "sku": "112620030",
+    "name": "Placa Gás E 60.3 40 LLB0E BUT",
+    "ean": "8434778025248",
+    "refPhc": "TK112620030",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 289000
+  },
+  {
+    "sku": "112620018",
+    "name": "Placa Gás E 60.3 40 LLN0E NAT",
+    "ean": "8434778022728",
+    "refPhc": "TK112620018",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 289000
+  },
+  {
+    "sku": "112750002",
+    "name": "Placa Gás HSE 64031 KLB BUT",
+    "ean": "8434778027891",
+    "refPhc": "TK112750002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 319000
+  },
+  {
+    "sku": "112660000",
+    "name": "Teppan Yaki YZC 32600 XFL",
+    "ean": "8434778014846",
+    "refPhc": "TK112660000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 2099000
+  },
+  {
+    "sku": "112510023",
+    "name": "Placa Indução IZC 42400 BK MSP",
+    "ean": "8434778012026",
+    "refPhc": "TK112510023",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "112510022",
+    "name": "Placa Indução IZC 32600 BK MST",
+    "ean": "8434778012019",
+    "refPhc": "TK112510022",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_inducao",
+    "priceAOA": 629000
+  },
+  {
+    "sku": "112540002",
+    "name": "Placa Vitrocerâmica TZC 32320 TTC",
+    "ean": "8434778012651",
+    "refPhc": "TK112540002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 319000
+  },
+  {
+    "sku": "112550007",
+    "name": "Placa Vitrocerâmica TBC 32010 TTC",
+    "ean": "8434778012668",
+    "refPhc": "TK112550007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 289000
+  },
+  {
+    "sku": "40214405",
+    "name": "Placa Vitrocerâmica EFX 30.1 2H",
+    "ean": "8421152155776",
+    "refPhc": "TK40214405",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "112570196",
+    "name": "Placa Gás GZC 32300 XBA BK",
+    "ean": "8434778019452",
+    "refPhc": "TK112570196",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 399000
+  },
+  {
+    "sku": "112570197",
+    "name": "Placa Gás GZC 31330 XBA BK",
+    "ean": "8434778019469",
+    "refPhc": "TK112570197",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 459000
+  },
+  {
+    "sku": "112610047",
+    "name": "Placa Gás EFX 30.1 2G AI AL CI BTN",
+    "ean": "8434778019575",
+    "refPhc": "TK112610047",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 269000
+  },
+  {
+    "sku": "112550020",
+    "name": "Placa Vitrocerâmica TTC 64010 CRD BK",
+    "ean": "8434778024531",
+    "refPhc": "TK112550020",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "112550018",
+    "name": "Placa Vitrocerâmica TCC 64000 PLV BK",
+    "ean": "8434778023640",
+    "refPhc": "TK112550018",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_vitro",
+    "priceAOA": 579000
+  },
+  {
+    "sku": "10205019",
+    "name": "Placa Gás CGC 4G AI AL BUT",
+    "ean": "8421152027868",
+    "refPhc": "TK10205019",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "10205219",
+    "name": "Placa Gás CGC 4G AI AL NAT",
+    "ean": "8421152027875",
+    "refPhc": "TK10205219",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "10205083",
+    "name": "Placa Gás CG.1 4G AI AL BUT SS",
+    "ean": "8421152066492",
+    "refPhc": "TK10205083",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 749000
+  },
+  {
+    "sku": "10205283",
+    "name": "Placa Gás CG.1 4G AI AL NAT SS",
+    "ean": "8421152066508",
+    "refPhc": "TK10205283",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_placa_gas",
+    "priceAOA": 749000
+  },
+  {
+    "sku": "40484180",
+    "name": "Chaminé DHT 1285 SS",
+    "ean": "8421152145890",
+    "refPhc": "TK40484180",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 2299000
+  },
+  {
+    "sku": "113100004",
+    "name": "Chaminé DHT 97670 TOS WH",
+    "ean": "8434778019322",
+    "refPhc": "TK113100004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 2199000
+  },
+  {
+    "sku": "112910003",
+    "name": "Chaminé DHT 96340 SS",
+    "ean": "8434778028829",
+    "refPhc": "TK112910003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "112910004",
+    "name": "Chaminé DHT 96340 WH",
+    "ean": "8434778028836",
+    "refPhc": "TK112910004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "113160000",
+    "name": "Exaustor Modular FIH 16760 TOS BK",
+    "ean": "8434778012675",
+    "refPhc": "TK113160000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 2499000
+  },
+  {
+    "sku": "112910006",
+    "name": "Chaminé CC 485 BK ILHA",
+    "ean": "8434778036527",
+    "refPhc": "TK112910006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "40480330",
+    "name": "Chaminé CC 485 SS ILHA",
+    "ean": "8421152145869",
+    "refPhc": "TK40480330",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "40483172",
+    "name": "Chaminé DPL 1185 T ILHA",
+    "ean": "8421152145777",
+    "refPhc": "TK40483172",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "40484640",
+    "name": "Chaminé DH2 985 ILHA",
+    "ean": "8421152145715",
+    "refPhc": "TK40484640",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "40485150",
+    "name": "Chaminé DG3 985 ILHA",
+    "ean": "8421152145814",
+    "refPhc": "TK40485150",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "112930051",
+    "name": "Chaminé DLV 99677 TOS BK - TEKA HOME",
+    "ean": "8434778017656",
+    "refPhc": "TK112930051",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "112930029",
+    "name": "Chaminé DLV 98660 TOS BK",
+    "ean": "8434778011937",
+    "refPhc": "TK112930029",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "112930030",
+    "name": "Chaminé DLV 98660 TOS WH",
+    "ean": "8434778011944",
+    "refPhc": "TK112930030",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "112930033",
+    "name": "Chaminé DLV 98660 TOS ST",
+    "ean": "8434778011975",
+    "refPhc": "TK112930033",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "112930043",
+    "name": "Chaminé DVT 98660 TBS BK",
+    "ean": "8434778013252",
+    "refPhc": "TK112930043",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 779000
+  },
+  {
+    "sku": "112930044",
+    "name": "Chaminé DVT 98660 TBS WH",
+    "ean": "8434778013269",
+    "refPhc": "TK112930044",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 779000
+  },
+  {
+    "sku": "112930041",
+    "name": "Chaminé DVT 78660 TBS BK",
+    "ean": "8434778013238",
+    "refPhc": "TK112930041",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 729000
+  },
+  {
+    "sku": "112930042",
+    "name": "Chaminé DVT 78660 TBS WH",
+    "ean": "8434778013245",
+    "refPhc": "TK112930042",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 749000
+  },
+  {
+    "sku": "112950011",
+    "name": "Chaminé DVN 77050 TTC BK",
+    "ean": "8434778011708",
+    "refPhc": "TK112950011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "112950010",
+    "name": "Chaminé DVN 67050 TTC BK",
+    "ean": "8434778011692",
+    "refPhc": "TK112950010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "112950013",
+    "name": "Chaminé DVN 67050 TTC WH",
+    "ean": "8434778017595",
+    "refPhc": "TK112950013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "112960013",
+    "name": "Chaminé DHP 118760 SOS - TEKA HOME",
+    "ean": "8434778025712",
+    "refPhc": "TK112960013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "112960012",
+    "name": "Chaminé DHP 98760 SOS - TEKA HOME",
+    "ean": "8434778025705",
+    "refPhc": "TK112960012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "40437110",
+    "name": "Chaminé PERFECTA4 DLH 1185 T",
+    "ean": "8421152145678",
+    "refPhc": "TK40437110",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 829000
+  },
+  {
+    "sku": "40437100",
+    "name": "Chaminé PERFECTA4 DLH 985 T",
+    "ean": "8421152145661",
+    "refPhc": "TK40437100",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 779000
+  },
+  {
+    "sku": "40487182",
+    "name": "Chaminé DLH 986 T",
+    "ean": "8421152157442",
+    "refPhc": "TK40487182",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 639000
+  },
+  {
+    "sku": "40487181",
+    "name": "Chaminé DLH 786 T",
+    "ean": "8421152157435",
+    "refPhc": "TK40487181",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 589000
+  },
+  {
+    "sku": "40487180",
+    "name": "Chaminé DLH 686 T",
+    "ean": "8421152157428",
+    "refPhc": "TK40487180",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 569000
+  },
+  {
+    "sku": "112970009",
+    "name": "Chaminé DSH 986 BK",
+    "ean": "8434778032826",
+    "refPhc": "TK112970009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 569000
+  },
+  {
+    "sku": "112970006",
+    "name": "Chaminé DSH 986",
+    "ean": "8434778025699",
+    "refPhc": "TK112970006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 569000
+  },
+  {
+    "sku": "112970005",
+    "name": "Chaminé DSH 786",
+    "ean": "8434778025682",
+    "refPhc": "TK112970005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "112970004",
+    "name": "Chaminé DSH 686",
+    "ean": "8434778025675",
+    "refPhc": "TK112970004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "40477002",
+    "name": "Chaminé DQ2 985",
+    "ean": "8421152145845",
+    "refPhc": "TK40477002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "40460529",
+    "name": "Chaminé DBP 90 PRO SS",
+    "ean": "8421152133729",
+    "refPhc": "TK40460529",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "40460519",
+    "name": "Chaminé DBP 70 PRO SS",
+    "ean": "8421152133712",
+    "refPhc": "TK40460519",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 329000
+  },
+  {
+    "sku": "40460509",
+    "name": "Chaminé DBP 60 PRO SS",
+    "ean": "8421152133705",
+    "refPhc": "TK40460509",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 319000
+  },
+  {
+    "sku": "40476310",
+    "name": "Chaminé DMR 975",
+    "ean": "8421152130797",
+    "refPhc": "TK40476310",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 739000
+  },
+  {
+    "sku": "113100001",
+    "name": "Chaminé INTEGRA 96750 POS",
+    "ean": "8434778014815",
+    "refPhc": "TK113100001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "113100000",
+    "name": "Chaminé INTEGRA 66750 POS",
+    "ean": "8434778014808",
+    "refPhc": "TK113100000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 629000
+  },
+  {
+    "sku": "40436860",
+    "name": "Exaustor CNL 9815 PLUS SS",
+    "ean": "8421152146262",
+    "refPhc": "TK40436860",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 549000
+  },
+  {
+    "sku": "40436840",
+    "name": "Exaustor CNL 6815 PLUS SS",
+    "ean": "8421152146248",
+    "refPhc": "TK40436840",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 439000
+  },
+  {
+    "sku": "40436820",
+    "name": "Exaustor CNL 6415 PLUS SS",
+    "ean": "8421152146200",
+    "refPhc": "TK40436820",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "40436822",
+    "name": "Exaustor CNL 6415 PLUS BK",
+    "ean": "8421152146224",
+    "refPhc": "TK40436822",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 369000
+  },
+  {
+    "sku": "40436821",
+    "name": "Exaustor CNL 6415 PLUS WH",
+    "ean": "8421152146217",
+    "refPhc": "TK40436821",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "40436810",
+    "name": "Exaustor CNL 6415 SS",
+    "ean": "8421152146170",
+    "refPhc": "TK40436810",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 299000
+  },
+  {
+    "sku": "40436812",
+    "name": "Exaustor CNL 6415 BK",
+    "ean": "8421152146194",
+    "refPhc": "TK40436812",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "40436811",
+    "name": "Exaustor CNL 6415 WH",
+    "ean": "8421152146187",
+    "refPhc": "TK40436811",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "40474390",
+    "name": "Exaustor TL 9310 SS",
+    "ean": "8421152146002",
+    "refPhc": "TK40474390",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "113080003",
+    "name": "Exaustor TL 7310 SS",
+    "ean": "8434778021547",
+    "refPhc": "TK113080003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 229000
+  },
+  {
+    "sku": "40474400",
+    "name": "Exaustor TL1 52 SS",
+    "ean": "8421152131336",
+    "refPhc": "TK40474400",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 179000
+  },
+  {
+    "sku": "40466250",
+    "name": "Exaustor C 9420 SS",
+    "ean": "8421152146125",
+    "refPhc": "TK40466250",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "40465530",
+    "name": "Exaustor C 6420 SS",
+    "ean": "8421152146088",
+    "refPhc": "TK40465530",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "40465532",
+    "name": "Exaustor C 6420 BK",
+    "ean": "8421152146101",
+    "refPhc": "TK40465532",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 229000
+  },
+  {
+    "sku": "40465531",
+    "name": "Exaustor C 6420 WH",
+    "ean": "8421152146095",
+    "refPhc": "TK40465531",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 229000
+  },
+  {
+    "sku": "113100006",
+    "name": "Exaustor GFL 77651 EOS BK",
+    "ean": "8434778022346",
+    "refPhc": "TK113100006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 779000
+  },
+  {
+    "sku": "113100005",
+    "name": "Exaustor GFL 57651 EOS BK",
+    "ean": "8434778022339",
+    "refPhc": "TK113100005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 749000
+  },
+  {
+    "sku": "113100009",
+    "name": "Exaustor GFL 87760 EOS SS",
+    "ean": "8434778025668",
+    "refPhc": "TK113100009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 799000
+  },
+  {
+    "sku": "113100008",
+    "name": "Exaustor GFL 77760 EOS SS",
+    "ean": "8434778025651",
+    "refPhc": "TK113100008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 769000
+  },
+  {
+    "sku": "113100007",
+    "name": "Exaustor GFL 57760 EOS SS",
+    "ean": "8434778025644",
+    "refPhc": "TK113100007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 739000
+  },
+  {
+    "sku": "113100011",
+    "name": "Exaustor GFI 96370 TOS SS",
+    "ean": "8434778038408",
+    "refPhc": "TK113100011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 739000
+  },
+  {
+    "sku": "113100013",
+    "name": "Exaustor GFI 96370 TOS BK",
+    "ean": "8434778038422",
+    "refPhc": "TK113100013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 739000
+  },
+  {
+    "sku": "113100010",
+    "name": "Exaustor GFI 66370 TOS SS",
+    "ean": "8434778038392",
+    "refPhc": "TK113100010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "113100012",
+    "name": "Exaustor GFI 66370 TOS BK",
+    "ean": "8434778038415",
+    "refPhc": "TK113100012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "113110003",
+    "name": "Exaustor GFI 97350 EOS SS",
+    "ean": "8434778033168",
+    "refPhc": "TK113110003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "113110004",
+    "name": "Exaustor GFI 97350 EOS BK",
+    "ean": "8434778033175",
+    "refPhc": "TK113110004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "113110002",
+    "name": "Exaustor GFI 67350 EOS SS",
+    "ean": "8434778033151",
+    "refPhc": "TK113110002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 429000
+  },
+  {
+    "sku": "113120007",
+    "name": "Exaustor GFI 93030 KOS SS",
+    "ean": "8434778033113",
+    "refPhc": "TK113120007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 319000
+  },
+  {
+    "sku": "113120006",
+    "name": "Exaustor GFI 63030 KOS SS",
+    "ean": "8434778033106",
+    "refPhc": "TK113120006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "113120008",
+    "name": "Exaustor GFI 63030 KOS BK",
+    "ean": "8434778033120",
+    "refPhc": "TK113120008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "40446753",
+    "name": "Exaustor GFG-2 SS",
+    "ean": "8421152146040",
+    "refPhc": "TK40446753",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "40446752",
+    "name": "Exaustor GFG-2 BK",
+    "ean": "8421152121238",
+    "refPhc": "TK40446752",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "40446751",
+    "name": "Exaustor GFG-2 WH",
+    "ean": "8421152121221",
+    "refPhc": "TK40446751",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "40446710",
+    "name": "Exaustor GFH-73 SS",
+    "ean": "8421152036402",
+    "refPhc": "TK40446710",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "40446700",
+    "name": "Exaustor GFH-55 SS",
+    "ean": "8421152036396",
+    "refPhc": "TK40446700",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "113430046",
+    "name": "Frigorífico French Door RFD 77825 GBK EU",
+    "ean": "8434778026184",
+    "refPhc": "TK113430046",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 2999000
+  },
+  {
+    "sku": "113430048",
+    "name": "Frigorífico French Door RFD 77825 SS EU",
+    "ean": "8434778026207",
+    "refPhc": "TK113430048",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 2699000
+  },
+  {
+    "sku": "113430074",
+    "name": "Frigorífico Side by Side RLF 85950 GBK",
+    "ean": "8434778030426",
+    "refPhc": "TK113430074",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 3899000
+  },
+  {
+    "sku": "113400046",
+    "name": "Frigorífico Combinado RBF 88680 DSS",
+    "ean": "8434778035377",
+    "refPhc": "TK113400046",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 2299000
+  },
+  {
+    "sku": "113400044",
+    "name": "Frigorífico Combinado RBF 88680 SS",
+    "ean": "8434778035353",
+    "refPhc": "TK113400044",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 2099000
+  },
+  {
+    "sku": "113400042",
+    "name": "Frigorífico Combinado RBF 88670 GBK",
+    "ean": "8434778035339",
+    "refPhc": "TK113400042",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1799000
+  },
+  {
+    "sku": "113400047",
+    "name": "Frigorífico Combinado RBF 68670 SS",
+    "ean": "8434778035827",
+    "refPhc": "TK113400047",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "113400043",
+    "name": "Frigorífico Combinado RBF 84680 SS",
+    "ean": "8434778035346",
+    "refPhc": "TK113400043",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1899000
+  },
+  {
+    "sku": "113400039",
+    "name": "Frigorífico Combinado RBF 64650 SS",
+    "ean": "8434778035308",
+    "refPhc": "TK113400039",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "113400038",
+    "name": "Frigorífico Combinado RBF 64670 SS",
+    "ean": "8434778035292",
+    "refPhc": "TK113400038",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "113400036",
+    "name": "Frigorífico Combinado RBF 64670 WH",
+    "ean": "8434778035261",
+    "refPhc": "TK113400036",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113400035",
+    "name": "Frigorífico Combinado RBF 64660 SS",
+    "ean": "8434778035254",
+    "refPhc": "TK113400035",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "113410020",
+    "name": "Frigorífico Combinado RBF 54640 SS",
+    "ean": "8434778035230",
+    "refPhc": "TK113410020",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "113410019",
+    "name": "Frigorífico Combinado RBF 54640 WH",
+    "ean": "8434778035223",
+    "refPhc": "TK113410019",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113410018",
+    "name": "Frigorífico Combinado RBF 44630 BK",
+    "ean": "8434778035216",
+    "refPhc": "TK113410018",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113410017",
+    "name": "Frigorífico Combinado RBF 44630 WH",
+    "ean": "8434778035209",
+    "refPhc": "TK113410017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113410009",
+    "name": "Frigorífico Combinado NFL 355 SS",
+    "ean": "8434778026863",
+    "refPhc": "TK113410009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113410008",
+    "name": "Frigorífico Combinado NFL 355 WH",
+    "ean": "8434778026856",
+    "refPhc": "TK113410008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113420000",
+    "name": "Frigorífico Combinado NFL 342 C SS EU",
+    "ean": "8434778004007",
+    "refPhc": "TK113420000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "113420001",
+    "name": "Frigorífico Combinado NFL 342 C WH EU",
+    "ean": "8434778004014",
+    "refPhc": "TK113420001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_livre",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "113300005",
+    "name": "Frigorífico 1 Porta RSL 75640 SS",
+    "ean": "8434778023053",
+    "refPhc": "TK113300005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "113330002",
+    "name": "Arca Vertical RSF 75640 SS\r\n",
+    "ean": "8434778023060",
+    "refPhc": "TK113330002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_congelador",
+    "priceAOA": 1699000
+  },
+  {
+    "sku": "113380004",
+    "name": "Frigorífico 2 Portas RTF 3210 WH",
+    "ean": "8434778032796",
+    "refPhc": "TK113380004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 719000
+  },
+  {
+    "sku": "113550001",
+    "name": "Frigorífico 2 Portas RTF 2510 WH",
+    "ean": "8434778032789",
+    "refPhc": "TK113550001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 609000
+  },
+  {
+    "sku": "113320003",
+    "name": "Frigorífico 1 Porta RSR 10138 WH EU",
+    "ean": "8434778026153",
+    "refPhc": "TK113320003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 429000
+  },
+  {
+    "sku": "113320004",
+    "name": "Frigorífico 1 Porta RSL 10130 WH EU",
+    "ean": "8434778026160",
+    "refPhc": "TK113320004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_livre",
+    "priceAOA": 459000
+  },
+  {
+    "sku": "113350000",
+    "name": "Arca RSF 10080 WH EU",
+    "ean": "8434778026177",
+    "refPhc": "TK113350000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_congelador",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "113560033",
+    "name": "Combinado Encastre RBF 78785 FI",
+    "ean": "8434778033588",
+    "refPhc": "TK113560033",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_encastrar",
+    "priceAOA": 2299000
+  },
+  {
+    "sku": "113560032",
+    "name": "Combinado Encastre RBF 78385 FI",
+    "ean": "8434778033571",
+    "refPhc": "TK113560032",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_encastrar",
+    "priceAOA": 1699000
+  },
+  {
+    "sku": "113560030",
+    "name": "Combinado Encastre RBF 73395 FI",
+    "ean": "8434778033540",
+    "refPhc": "TK113560030",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_encastrar",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "113560031",
+    "name": "Combinado Encastre RBF 73355 FI",
+    "ean": "8434778033557",
+    "refPhc": "TK113560031",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_encastrar",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "113570026",
+    "name": "Combinado Encastre RBF 43345 FI",
+    "ean": "8434778033564",
+    "refPhc": "TK113570026",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_combinado_encastrar",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113460011",
+    "name": "Frigorífico Encastre RSL 73385 FI",
+    "ean": "8434778033595",
+    "refPhc": "TK113460011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_encastrar",
+    "priceAOA": 1499000
+  },
+  {
+    "sku": "113500012",
+    "name": "Arca Encastre RSF 73385 FI",
+    "ean": "8434778033601",
+    "refPhc": "TK113500012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_congelador",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "113470015",
+    "name": "Frigorífico Encastre RSL 41150 BU EU",
+    "ean": "8434778021882",
+    "refPhc": "TK113470015",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_encastrar",
+    "priceAOA": 919000
+  },
+  {
+    "sku": "113470018",
+    "name": "Frigorífico Encastre RSR 41160 BU",
+    "ean": "8434778029444",
+    "refPhc": "TK113470018",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_frigorifico_encastrar",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "113510002",
+    "name": "Arca Encastre RSF 41160 BU",
+    "ean": "8434778029468",
+    "refPhc": "TK113510002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_congelador",
+    "priceAOA": 969000
+  },
+  {
+    "sku": "113600012",
+    "name": "Garrafeira Encastre RVI 30097",
+    "ean": "8434778021141",
+    "refPhc": "TK113600012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_garrafeira",
+    "priceAOA": 3399000
+  },
+  {
+    "sku": "113600010",
+    "name": "Garrafeira Encastre RVI 20041",
+    "ean": "8434778021127",
+    "refPhc": "TK113600010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_garrafeira",
+    "priceAOA": 1699000
+  },
+  {
+    "sku": "113600009",
+    "name": "Garrafeira Encastre RVI 10024",
+    "ean": "8434778021110",
+    "refPhc": "TK113600009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_garrafeira",
+    "priceAOA": 1399000
+  },
+  {
+    "sku": "113600008",
+    "name": "Garrafeira RVU 20046",
+    "ean": "8434778021103",
+    "refPhc": "TK113600008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_garrafeira",
+    "priceAOA": 1799000
+  },
+  {
+    "sku": "113610002",
+    "name": "Garrafeira RVF 10051",
+    "ean": "8434778021066",
+    "refPhc": "TK113610002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_garrafeira",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113610001",
+    "name": "Garrafeira RVF 10032",
+    "ean": "8434778021059",
+    "refPhc": "TK113610001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_garrafeira",
+    "priceAOA": 849000
+  },
+  {
+    "sku": "114270048",
+    "name": "Máq. Lavar Louça Encastre DFI 86850 XL",
+    "ean": "8434778036930",
+    "refPhc": "TK114270048",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 1199000
+  },
+  {
+    "sku": "114260027",
+    "name": "Máq. Lavar Louça Encastre DFI 76960",
+    "ean": "8434778032758",
+    "refPhc": "TK114260027",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "114270039",
+    "name": "Máq. Lavar Louça Encastre DFI 46960",
+    "ean": "8434778032741",
+    "refPhc": "TK114270039",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 949000
+  },
+  {
+    "sku": "114270037",
+    "name": "Máq. Lavar Louça Encastre DFI 46740",
+    "ean": "8434778032727",
+    "refPhc": "TK114270037",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 859000
+  },
+  {
+    "sku": "114270036",
+    "name": "Máq. Lavar Louça Encastre DFI 46720",
+    "ean": "8434778032710",
+    "refPhc": "TK114270036",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 709000
+  },
+  {
+    "sku": "114310011",
+    "name": "Máq. Lavar Louça Encastre DFI 74860",
+    "ean": "8434778036947",
+    "refPhc": "TK114310011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 869000
+  },
+  {
+    "sku": "114310008",
+    "name": "Máq. Lavar Louça Encastre DFI 44850",
+    "ean": "8434778032772",
+    "refPhc": "TK114310008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 709000
+  },
+  {
+    "sku": "114270011",
+    "name": "Máq. Lavar Louça Apainelável DSI 46750 SS",
+    "ean": "8434778013696",
+    "refPhc": "TK114270011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_enc",
+    "priceAOA": 889000
+  },
+  {
+    "sku": "114210005",
+    "name": "Máq. Lavar Louça DFS 86850 SS",
+    "ean": "8434778036831",
+    "refPhc": "TK114210005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "114200002",
+    "name": "Máq. Lavar Louça DFS 76860 SS",
+    "ean": "8434778036732",
+    "refPhc": "TK114200002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "114210006",
+    "name": "Máq. Lavar Louça DFS 76860 WH",
+    "ean": "8434778036848",
+    "refPhc": "TK114210006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 929000
+  },
+  {
+    "sku": "114210004",
+    "name": "Máq. Lavar Louça DFS 76820 SS",
+    "ean": "8434778036824",
+    "refPhc": "TK114210004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 899000
+  },
+  {
+    "sku": "114210003",
+    "name": "Máq. Lavar Louça DFS 76820 WH",
+    "ean": "8434778036817",
+    "refPhc": "TK114210003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 859000
+  },
+  {
+    "sku": "114210008",
+    "name": "Máq. Lavar Louça DFS 46760 SS",
+    "ean": "8434778036862",
+    "refPhc": "TK114210008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 819000
+  },
+  {
+    "sku": "114210007",
+    "name": "Máq. Lavar Louça DFS 46760 WH",
+    "ean": "8434778036855",
+    "refPhc": "TK114210007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 769000
+  },
+  {
+    "sku": "114210010",
+    "name": "Máq. Lavar Louça DFS 46720 SS",
+    "ean": "8434778036886",
+    "refPhc": "TK114210010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 759000
+  },
+  {
+    "sku": "114210009",
+    "name": "Máq. Lavar Louça DFS 46720 WH",
+    "ean": "8434778036879",
+    "refPhc": "TK114210009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 709000
+  },
+  {
+    "sku": "114280001",
+    "name": "Máq. Lavar Louça DFS 26650 SS",
+    "ean": "8434778013863",
+    "refPhc": "TK114280001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 709000
+  },
+  {
+    "sku": "114280000",
+    "name": "Máq. Lavar Louça DFS 26650 WH",
+    "ean": "8434778013856",
+    "refPhc": "TK114280000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "114310004",
+    "name": "Máq. Lavar Louça DFS 44750 SS",
+    "ean": "8434778013979",
+    "refPhc": "TK114310004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 729000
+  },
+  {
+    "sku": "114310003",
+    "name": "Máq. Lavar Louça DFS 44750 WH",
+    "ean": "8434778013962",
+    "refPhc": "TK114310003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "114350000",
+    "name": "Máq. Lavar Louça LC 24700 WH",
+    "ean": "8434778030433",
+    "refPhc": "TK114350000",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_louca_livre",
+    "priceAOA": 569000
+  },
+  {
+    "sku": "114000011",
+    "name": "Máq. Lavar Roupa Encastre LI6 1481",
+    "ean": "8434778031584",
+    "refPhc": "TK114000011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_enc",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113900011",
+    "name": "Máq. Lavar Roupa WMK 81050 DSS\r\n",
+    "ean": "8434778023244",
+    "refPhc": "TK113900011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "113900015",
+    "name": "Máq. Lavar Roupa WMK 81050 WH",
+    "ean": "8434778028478",
+    "refPhc": "TK113900015",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "113900019",
+    "name": "Máq. Lavar Roupa WMK 71240 WH",
+    "ean": "8434778032673",
+    "refPhc": "TK113900019",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 1099000
+  },
+  {
+    "sku": "113900018",
+    "name": "Máq. Lavar Roupa WMK 70940 SS",
+    "ean": "8434778032666",
+    "refPhc": "TK113900018",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "113900017",
+    "name": "Máq. Lavar Roupa WMK 70940 WH",
+    "ean": "8434778032659",
+    "refPhc": "TK113900017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 969000
+  },
+  {
+    "sku": "113900016",
+    "name": "Máq. Lavar Roupa WMK 70840 WH",
+    "ean": "8434778032642",
+    "refPhc": "TK113900016",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 929000
+  },
+  {
+    "sku": "113910020",
+    "name": "Máq. Lavar Roupa WMK 40940 WH",
+    "ean": "8434778032635",
+    "refPhc": "TK113910020",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 859000
+  },
+  {
+    "sku": "113910018",
+    "name": "Máq. Lavar Roupa WMK 40840 WH",
+    "ean": "8434778032611",
+    "refPhc": "TK113910018",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 789000
+  },
+  {
+    "sku": "113910016",
+    "name": "Máq. Lavar Roupa WMK 40740 WH",
+    "ean": "8434778032598",
+    "refPhc": "TK113910016",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_livre",
+    "priceAOA": 729000
+  },
+  {
+    "sku": "114030005",
+    "name": "Máq. Lavar e Secar Roupa Encastre LSI6 1480",
+    "ean": "8434778023077",
+    "refPhc": "TK114030005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_lavaeseca_enc",
+    "priceAOA": 1599000
+  },
+  {
+    "sku": "113960013",
+    "name": "Máq. Lavar e Secar Roupa WDK 81050 WH",
+    "ean": "8434778032680",
+    "refPhc": "TK113960013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_lavaeseca_livre",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "114060006",
+    "name": "Máq. Secar Roupa SHK 81030 WH",
+    "ean": "8434778031829",
+    "refPhc": "TK114060006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_secar_livre",
+    "priceAOA": 1299000
+  },
+  {
+    "sku": "114060008",
+    "name": "Máq. Secar Roupa SHK 70840 WH",
+    "ean": "8434778032703",
+    "refPhc": "TK114060008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_secar_livre",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "42080340",
+    "name": "Termoacumulador EWH 100 VE-D",
+    "ean": "8421152149256",
+    "refPhc": "TK42080340",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "42080330",
+    "name": "Termoacumulador EWH 80 VE-D",
+    "ean": "8421152149249",
+    "refPhc": "TK42080330",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 439000
+  },
+  {
+    "sku": "42080320",
+    "name": "Termoacumulador EWH 50 VE-D",
+    "ean": "8421152149232",
+    "refPhc": "TK42080320",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "42080310",
+    "name": "Termoacumulador EWH 30 VE-D",
+    "ean": "8421152149225",
+    "refPhc": "TK42080310",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 299000
+  },
+  {
+    "sku": "42080300",
+    "name": "Termoacumulador EWH 15 VE-D",
+    "ean": "8421152158746",
+    "refPhc": "TK42080300",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "111700002",
+    "name": "Termoacumulador SHS 100 D SLIM",
+    "ean": "8434778021929",
+    "refPhc": "TK111700002",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 629000
+  },
+  {
+    "sku": "42080090",
+    "name": "Termoacumulador EWH 80 D SLIM",
+    "ean": "8421152156841",
+    "refPhc": "TK42080090",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 579000
+  },
+  {
+    "sku": "42080060",
+    "name": "Termoacumulador EWH 50 D SLIM",
+    "ean": "8421152156834",
+    "refPhc": "TK42080060",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 459000
+  },
+  {
+    "sku": "42080280",
+    "name": "Termoacumulador EWH 80 H",
+    "ean": "8421152131961",
+    "refPhc": "TK42080280",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 419000
+  },
+  {
+    "sku": "42080250",
+    "name": "Termoacumulador EWH 50 H",
+    "ean": "8421152131954",
+    "refPhc": "TK42080250",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_termoacumulador",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "115000056",
+    "name": "L. Louças AMERICAN PRO 80 M-XP 1C",
+    "ean": "8434778019230",
+    "refPhc": "TK115000056",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 849000
+  },
+  {
+    "sku": "115000055",
+    "name": "L. Louças AMERICAN PRO 60 M-XP 1C",
+    "ean": "8434778019223",
+    "refPhc": "TK115000055",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 669000
+  },
+  {
+    "sku": "115000054",
+    "name": "L. Louças FLEXLINEA RS15 71.40 M-XT 1C PURECLEAN",
+    "ean": "8434778018684",
+    "refPhc": "TK115000054",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 669000
+  },
+  {
+    "sku": "115000046",
+    "name": "L. Louças FLEXLINEA RS15 50.40 M-XT 1C PURECLEAN",
+    "ean": "8434778015539",
+    "refPhc": "TK115000046",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 569000
+  },
+  {
+    "sku": "115000053",
+    "name": "L. Louças FLEXLINEA RS15 40.40 M-XT 1C PURECLEAN",
+    "ean": "8434778018677",
+    "refPhc": "TK115000053",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 529000
+  },
+  {
+    "sku": "115000023",
+    "name": "L. Louças FLEXLINEA RS15 50.40 DOURADO",
+    "ean": "8434778004700",
+    "refPhc": "TK115000023",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "115000024",
+    "name": "L. Louças FLEXLINEA RS15 50.40 TITANIUM",
+    "ean": "8434778004717",
+    "refPhc": "TK115000024",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "115000025",
+    "name": "L. Louças FLEXLINEA RS15 50.40 COBRE",
+    "ean": "8434778004724",
+    "refPhc": "TK115000025",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 999000
+  },
+  {
+    "sku": "115000063",
+    "name": "L. Louças FLEXLINEA RS15 71.40 M-FX 1C FORTINOX",
+    "ean": "8434778025279",
+    "refPhc": "TK115000063",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 639000
+  },
+  {
+    "sku": "115000062",
+    "name": "L. Louças FLEXLINEA RS15 50.40 M-FX 1C FORTINOX",
+    "ean": "8434778025262",
+    "refPhc": "TK115000062",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 539000
+  },
+  {
+    "sku": "115000061",
+    "name": "L. Louças FLEXLINEA RS15 40.40 M-FX 1C FORTINOX",
+    "ean": "8434778025255",
+    "refPhc": "TK115000061",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115000011",
+    "name": "L. Louças FLEXLINEA RS15 71.40",
+    "ean": "8434778004373",
+    "refPhc": "TK115000011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115000012",
+    "name": "L. Louças FLEXLINEA RS15 50.40",
+    "ean": "8434778004380",
+    "refPhc": "TK115000012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 399000
+  },
+  {
+    "sku": "115000014",
+    "name": "L. Louças FLEXLINEA RS15 40.40",
+    "ean": "8434778004403",
+    "refPhc": "TK115000014",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 369000
+  },
+  {
+    "sku": "115030007",
+    "name": "L. Louças BE LINEA RS15 2C 740",
+    "ean": "8434778004274",
+    "refPhc": "TK115030007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 579000
+  },
+  {
+    "sku": "115030008",
+    "name": "L. Louças BE LINEA RS15 2C 580",
+    "ean": "8434778004281",
+    "refPhc": "TK115030008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 559000
+  },
+  {
+    "sku": "115000004",
+    "name": "L. Louças BE LINEA RS15 71.40",
+    "ean": "8434778004298",
+    "refPhc": "TK115000004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 359000
+  },
+  {
+    "sku": "115000005",
+    "name": "L. Louças BE LINEA RS15 50.40",
+    "ean": "8434778004304",
+    "refPhc": "TK115000005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "115000006",
+    "name": "L. Louças BE LINEA RS15 45.40",
+    "ean": "8434778004311",
+    "refPhc": "TK115000006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 269000
+  },
+  {
+    "sku": "115000007",
+    "name": "L. Louças BE LINEA RS15 40.40",
+    "ean": "8434778004328",
+    "refPhc": "TK115000007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "115000008",
+    "name": "L. Louças BE LINEA RS15 34.40",
+    "ean": "8434778004335",
+    "refPhc": "TK115000008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "115000010",
+    "name": "L. Louças BE LINEA RS15 18.40",
+    "ean": "8434778005349",
+    "refPhc": "TK115000010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 309000
+  },
+  {
+    "sku": "10125026",
+    "name": "L. Louças BE 2C 780",
+    "ean": "8421152031278",
+    "refPhc": "TK10125026",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 369000
+  },
+  {
+    "sku": "10125121",
+    "name": "L. Louças BE 74.43",
+    "ean": "8421152060889",
+    "refPhc": "TK10125121",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "10125122",
+    "name": "L. Louças BE 50.40 PLUS",
+    "ean": "8421152062111",
+    "refPhc": "TK10125122",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 169000
+  },
+  {
+    "sku": "10125123",
+    "name": "L. Louças BE 45.40 PLUS",
+    "ean": "8421152066454",
+    "refPhc": "TK10125123",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 149000
+  },
+  {
+    "sku": "10125149",
+    "name": "L. Louças BE 34.40 PLUS",
+    "ean": "8421152112892",
+    "refPhc": "TK10125149",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "10125005",
+    "name": "L. Louças BE 40.40",
+    "ean": "8421152024119",
+    "refPhc": "TK10125005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 119000
+  },
+  {
+    "sku": "10125003",
+    "name": "L. Louças BE 28.40",
+    "ean": "8421152024096",
+    "refPhc": "TK10125003",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 119000
+  },
+  {
+    "sku": "115160010",
+    "name": "L. Louças BROOKLYN 80 M-XP 2C 1E",
+    "ean": "8434778019667",
+    "refPhc": "TK115160010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 619000
+  },
+  {
+    "sku": "115100023",
+    "name": "L. Louças BROOKLYN 60 M-XP 1C 1E",
+    "ean": "8434778019643",
+    "refPhc": "TK115100023",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 549000
+  },
+  {
+    "sku": "115100022",
+    "name": "L. Louças BROOKLYN 50 M-XP 1C 1E",
+    "ean": "8434778019636",
+    "refPhc": "TK115100022",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "115100011",
+    "name": "L. Louças DIAMOND RS15 1C 1E 86 REV PRETO",
+    "ean": "8434778004731",
+    "refPhc": "TK115100011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 619000
+  },
+  {
+    "sku": "10119023",
+    "name": "L. Louças CLASSIC 2C 1E (Sif)",
+    "ean": "8421152019566",
+    "refPhc": "TK10119023",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 419000
+  },
+  {
+    "sku": "10119021",
+    "name": "L. Louças CLASSIC 2C 86 (Sif)",
+    "ean": "8421152019474",
+    "refPhc": "TK10119021",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 419000
+  },
+  {
+    "sku": "10119013",
+    "name": "L. Louças CLASSIC 1C 1E (Sif)",
+    "ean": "8421152019283",
+    "refPhc": "TK10119013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 219000
+  },
+  {
+    "sku": "10119059",
+    "name": "L. Louças CLASSIC 1C",
+    "ean": "8421152030677",
+    "refPhc": "TK10119059",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 209000
+  },
+  {
+    "sku": "115170001",
+    "name": "L. Louças UNIVERSE 80 T-XP 2C 1E",
+    "ean": "8434778015133",
+    "refPhc": "TK115170001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 289000
+  },
+  {
+    "sku": "115140001",
+    "name": "L. Louças UNIVERSE 60 T-XP 1½C 1E",
+    "ean": "8434778015119",
+    "refPhc": "TK115140001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "115110022",
+    "name": "L. Louças UNIVERSE 50 T-XP 1C 1E PLUS",
+    "ean": "8434778015065",
+    "refPhc": "TK115110022",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 229000
+  },
+  {
+    "sku": "115110011",
+    "name": "L. Louças UNIVERSE 45 T-XP 1C 1E",
+    "ean": "8434778014952",
+    "refPhc": "TK115110011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 199000
+  },
+  {
+    "sku": "115180001",
+    "name": "L. Louças STARBRIGHT 80 E-XP 2C 1E",
+    "ean": "8434778015577",
+    "refPhc": "TK115180001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 269000
+  },
+  {
+    "sku": "115150001",
+    "name": "L. Louças STARBRIGHT 60 E-XP 1½C 1E",
+    "ean": "8434778015652",
+    "refPhc": "TK115150001",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 219000
+  },
+  {
+    "sku": "115120033",
+    "name": "L. Louças STARBRIGHT 45 E-XP 1C 1E",
+    "ean": "8434778015775",
+    "refPhc": "TK115120033",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 179000
+  },
+  {
+    "sku": "115020011",
+    "name": "L. Louças STARBRIGHT 45 E-XN 1C",
+    "ean": "8434778015904",
+    "refPhc": "TK115020011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 139000
+  },
+  {
+    "sku": "10107028",
+    "name": "L. Louças STYLO 2C",
+    "ean": "8421152028285",
+    "refPhc": "TK10107028",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 179000
+  },
+  {
+    "sku": "10107017",
+    "name": "L. Louças STYLO 1C 1E REV",
+    "ean": "8421152028179",
+    "refPhc": "TK10107017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 169000
+  },
+  {
+    "sku": "10107007",
+    "name": "L. Louças STYLO 1C",
+    "ean": "8421152028070",
+    "refPhc": "TK10107007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 119000
+  },
+  {
+    "sku": "10110006",
+    "name": "L. Louças DR 80 2C",
+    "ean": "8421152037065",
+    "refPhc": "TK10110006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 179000
+  },
+  {
+    "sku": "10110005",
+    "name": "L. Louças DR 80 1C 1E REV",
+    "ean": "8421152037058",
+    "refPhc": "TK10110005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 159000
+  },
+  {
+    "sku": "10108035",
+    "name": "L. Louças ERC",
+    "ean": "8421152131770",
+    "refPhc": "TK10108035",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 109000
+  },
+  {
+    "sku": "115230057",
+    "name": "L. Louças NOVA 80 WS-TG 1C BLACK (c/ acessórios)",
+    "ean": "8434778034486",
+    "refPhc": "TK115230057",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 589000
+  },
+  {
+    "sku": "115400009",
+    "name": "L. Louças STONE 80 B-TG 2C 1E BLACK CARBON",
+    "ean": "8434778004915",
+    "refPhc": "TK115400009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 529000
+  },
+  {
+    "sku": "115400013",
+    "name": "L. Louças STONE 80 B-TG 2C 1E WHITE",
+    "ean": "8434778004953",
+    "refPhc": "TK115400013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 529000
+  },
+  {
+    "sku": "115360008",
+    "name": "L. Louças STONE 60 B-TG 1½C 1E BLACK CARBON",
+    "ean": "8434778005059",
+    "refPhc": "TK115360008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "115360012",
+    "name": "L. Louças STONE 60 B-TG 1½C 1E WHITE",
+    "ean": "8434778005097",
+    "refPhc": "TK115360012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "115330008",
+    "name": "L. Louças STONE 60 L-TG 1C 1E BLACK CARBON",
+    "ean": "8434778006162",
+    "refPhc": "TK115330008",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115330012",
+    "name": "L. Louças STONE 60 L-TG 1C 1E WHITE",
+    "ean": "8434778005929",
+    "refPhc": "TK115330012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115330022",
+    "name": "L. Louças STONE 50 B-TG 1C 1E BLACK CARBON",
+    "ean": "8434778006018",
+    "refPhc": "TK115330022",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "115330026",
+    "name": "L. Louças STONE 50 B-TG 1C 1E WHITE",
+    "ean": "8434778006056",
+    "refPhc": "TK115330026",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "115230005",
+    "name": "L. Louças FORSQUARE 50.40 TG BLACK",
+    "ean": "8434778007084",
+    "refPhc": "TK115230005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115230009",
+    "name": "L. Louças FORSQUARE 50.40 TG WHITE",
+    "ean": "8434778007121",
+    "refPhc": "TK115230009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_enc",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115260024",
+    "name": "L. Louças SQUARE 2C 760 TG BLACK",
+    "ean": "8434778007220",
+    "refPhc": "TK115260024",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 529000
+  },
+  {
+    "sku": "115260028",
+    "name": "L. Louças SQUARE 2C 760 TG WHITE",
+    "ean": "8434778007268",
+    "refPhc": "TK115260028",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 529000
+  },
+  {
+    "sku": "115260029",
+    "name": "L. Louças SQUARE 2C 560 TG BLACK",
+    "ean": "8434778007275",
+    "refPhc": "TK115260029",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "115260033",
+    "name": "L. Louças SQUARE 2C 560 TG WHITE",
+    "ean": "8434778007312",
+    "refPhc": "TK115260033",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 519000
+  },
+  {
+    "sku": "115230015",
+    "name": "L. Louças SQUARE 72.40 TG BLACK",
+    "ean": "8434778007329",
+    "refPhc": "TK115230015",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115230019",
+    "name": "L. Louças SQUARE 72.40 TG WHITE",
+    "ean": "8434778007367",
+    "refPhc": "TK115230019",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "115230020",
+    "name": "L. Louças SQUARE 50.40 TG BLACK",
+    "ean": "8434778007374",
+    "refPhc": "TK115230020",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 469000
+  },
+  {
+    "sku": "115230024",
+    "name": "L. Louças SQUARE 50.40 TG WHITE",
+    "ean": "8434778007411",
+    "refPhc": "TK115230024",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 469000
+  },
+  {
+    "sku": "115230025",
+    "name": "L. Louças SQUARE 40.40 TG BLACK",
+    "ean": "8434778007428",
+    "refPhc": "TK115230025",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "115230029",
+    "name": "L. Louças SQUARE 40.40 TG WHITE",
+    "ean": "8434778007466",
+    "refPhc": "TK115230029",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "33915020W",
+    "name": "Misturadora IC 915 WH",
+    "ean": "8421152091357",
+    "refPhc": "TK33915020W",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 599000
+  },
+  {
+    "sku": "33915020N",
+    "name": "Misturadora IC 915 BK",
+    "ean": "8421152091364",
+    "refPhc": "TK33915020N",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 599000
+  },
+  {
+    "sku": "116030004",
+    "name": "Misturadora ICC 915",
+    "ean": "8434778002973",
+    "refPhc": "TK116030004",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "116030006",
+    "name": "Misturadora ICC 915 DOURADO",
+    "ean": "8434778003000",
+    "refPhc": "TK116030006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "116030005",
+    "name": "Misturadora ICC 915 TITANIUM",
+    "ean": "8434778002980",
+    "refPhc": "TK116030005",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "116030007",
+    "name": "Misturadora ICC 915 COBRE",
+    "ean": "8434778002997",
+    "refPhc": "TK116030007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 659000
+  },
+  {
+    "sku": "182000200",
+    "name": "Misturadora OS 200 (sem filtro)",
+    "ean": "8421152084748",
+    "refPhc": "TK182000200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 309000
+  },
+  {
+    "sku": "239391200",
+    "name": "Misturadora ARK 939",
+    "ean": "8421152084793",
+    "refPhc": "TK239391200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 439000
+  },
+  {
+    "sku": "539391200",
+    "name": "Misturadora IN 939",
+    "ean": "8413509220145",
+    "refPhc": "TK539391200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 439000
+  },
+  {
+    "sku": "509830200",
+    "name": "Misturadora AUK 983",
+    "ean": "8421152112731",
+    "refPhc": "TK509830200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "629850200",
+    "name": "Misturadora FO 985",
+    "ean": "8421152131589",
+    "refPhc": "TK629850200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "116020015",
+    "name": "Misturadora Oval 9382 BK",
+    "ean": "8434778027242",
+    "refPhc": "TK116020015",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 429000
+  },
+  {
+    "sku": "116020013",
+    "name": "Misturadora Oval 9382",
+    "ean": "8434778027228",
+    "refPhc": "TK116020013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 399000
+  },
+  {
+    "sku": "116020011",
+    "name": "Misturadora Oval 9381",
+    "ean": "8434778027204",
+    "refPhc": "TK116020011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 359000
+  },
+  {
+    "sku": "116020010",
+    "name": "Misturadora IN 938 PLUS",
+    "ean": "8434778026511",
+    "refPhc": "TK116020010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 299000
+  },
+  {
+    "sku": "23938120I",
+    "name": "Misturadora ARK 938 I",
+    "ean": "8421152134191",
+    "refPhc": "TK23938120I",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "239381200",
+    "name": "Misturadora ARK 938",
+    "ean": "8421152086995",
+    "refPhc": "TK239381200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 309000
+  },
+  {
+    "sku": "116020019",
+    "name": "Misturadora Oval 938 BK",
+    "ean": "8434778027280",
+    "refPhc": "TK116020019",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 359000
+  },
+  {
+    "sku": "116020017",
+    "name": "Misturadora Oval 938",
+    "ean": "8434778027266",
+    "refPhc": "TK116020017",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 329000
+  },
+  {
+    "sku": "116020023",
+    "name": "Misturadora UNI 9331 BK",
+    "ean": "8434778033847",
+    "refPhc": "TK116020023",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 309000
+  },
+  {
+    "sku": "116020022",
+    "name": "Misturadora UNI 9331 I",
+    "ean": "8434778033830",
+    "refPhc": "TK116020022",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 309000
+  },
+  {
+    "sku": "62997020FN",
+    "name": "Misturadora FO 997 FN (PRETO)",
+    "ean": "8421152139738",
+    "refPhc": "TK62997020FN",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "116030064",
+    "name": "Misturadora Oval 915 BK",
+    "ean": "8434778027143",
+    "refPhc": "TK116030064",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 219000
+  },
+  {
+    "sku": "116030062",
+    "name": "Misturadora Oval 915",
+    "ean": "8434778027129",
+    "refPhc": "TK116030062",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 199000
+  },
+  {
+    "sku": "116030071",
+    "name": "Misturadora UNI 9310 BK",
+    "ean": "8434778033861",
+    "refPhc": "TK116030071",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 159000
+  },
+  {
+    "sku": "116030070",
+    "name": "Misturadora UNI 9310 I",
+    "ean": "8434778033854",
+    "refPhc": "TK116030070",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 149000
+  },
+  {
+    "sku": "116030024",
+    "name": "Misturadora TOP FOT 995 CROMO/BRANCO",
+    "ean": "8434778002119",
+    "refPhc": "TK116030024",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "116030023",
+    "name": "Misturadora TOP FOT 995 CROMO/PRETO",
+    "ean": "8434778002102",
+    "refPhc": "TK116030023",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "53995120FN",
+    "name": "Misturadora IN 995 FN (PRETO)",
+    "ean": "8421152137109",
+    "refPhc": "TK53995120FN",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "53995120FW",
+    "name": "Misturadora IN 995 FW (BRANCO)",
+    "ean": "8421152137123",
+    "refPhc": "TK53995120FW",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 249000
+  },
+  {
+    "sku": "629150200",
+    "name": "Misturadora FO 915",
+    "ean": "8421152112700",
+    "refPhc": "TK629150200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 389000
+  },
+  {
+    "sku": "62915020NC",
+    "name": "Misturadora FO 915 NC",
+    "ean": "8421152134832",
+    "refPhc": "TK62915020NC",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 499000
+  },
+  {
+    "sku": "559950200",
+    "name": "Misturadora Spirit - SP 995",
+    "ean": "8421152090237",
+    "refPhc": "TK559950200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 149000
+  },
+  {
+    "sku": "469130200",
+    "name": "Misturadora MTP 913",
+    "ean": "8421152084724",
+    "refPhc": "TK469130200",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 119000
+  },
+  {
+    "sku": "5302412",
+    "name": "Misturadora MURAL IN 024",
+    "ean": "8421152091500",
+    "refPhc": "TK5302412",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_misturadora",
+    "priceAOA": 149000
+  },
+  {
+    "sku": "41599012",
+    "name": "Steambox",
+    "ean": "8421152150184",
+    "refPhc": "TK41599012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 239000
+  },
+  {
+    "sku": "41599013",
+    "name": "Bandeja Pro-Titanium Dual",
+    "ean": "8421152150191",
+    "refPhc": "TK41599013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 179000
+  },
+  {
+    "sku": "41599010",
+    "name": "Kit Guias Telescópicas 2 Alturas",
+    "ean": "8421152150160",
+    "refPhc": "TK41599010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_acessorio",
+    "priceAOA": 149000
+  },
+  {
+    "sku": "41599011",
+    "name": "Kit Guias Telescópicas 1 Altura",
+    "ean": "8421152150177",
+    "refPhc": "TK41599011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_acessorio",
+    "priceAOA": 80000
+  },
+  {
+    "sku": "41599006",
+    "name": "Pedra Pizza Double Cook",
+    "ean": "8421152110591",
+    "refPhc": "TK41599006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 80000
+  },
+  {
+    "sku": "49004840",
+    "name": "Trem de cozinha 5 peças Silampos",
+    "ean": "8421152123621",
+    "refPhc": "TK49004840",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 409000
+  },
+  {
+    "sku": "890359",
+    "name": "Trem de cozinha 3 peças Silampos c/tampa de aço",
+    "ean": "5601416582644",
+    "refPhc": "TK890359",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 259000
+  },
+  {
+    "sku": "890263",
+    "name": "Panela de Pressão Easy",
+    "ean": "5601416542846",
+    "refPhc": "TK890263",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 189000
+  },
+  {
+    "sku": "61601801",
+    "name": "Espátula de limpeza",
+    "ean": "8421152715321",
+    "refPhc": "TK61601801",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 14000
+  },
+  {
+    "sku": "111890085",
+    "name": "Kit Coluna Máq. lavar e secar c/ bandeja extraível",
+    "ean": "8434778034516",
+    "refPhc": "TK111890085",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_acess",
+    "priceAOA": 209000
+  },
+  {
+    "sku": "111890084",
+    "name": "Kit Coluna Máq. lavar e secar s/ bandeja extraível",
+    "ean": "8434778034509",
+    "refPhc": "TK111890084",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_maquina_roupa_acess",
+    "priceAOA": 109000
+  },
+  {
+    "sku": "115890013",
+    "name": "Triturador TR 550",
+    "ean": "8434778010640",
+    "refPhc": "TK115890013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_triturador",
+    "priceAOA": 449000
+  },
+  {
+    "sku": "88801300",
+    "name": "Adaptador Triturador para válvula quadrada",
+    "ean": "5647687143214",
+    "refPhc": "TK88801300",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_triturador",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "115890015",
+    "name": "Tábua de corte em bambu",
+    "ean": "8434778011180",
+    "refPhc": "TK115890015",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_palamenta",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "115890041",
+    "name": "Doseador de detergente quadrado preto",
+    "ean": "8434778027754",
+    "refPhc": "TK115890041",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 96000
+  },
+  {
+    "sku": "115890012",
+    "name": "Doseador de detergente quadrado",
+    "ean": "8434778004786",
+    "refPhc": "TK115890012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 88000
+  },
+  {
+    "sku": "115890011",
+    "name": "Doseador de detergente universal",
+    "ean": "8434778004779",
+    "refPhc": "TK115890011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 72000
+  },
+  {
+    "sku": "40199072",
+    "name": "Cesto inox universal 420X200X74 mm",
+    "ean": "8421152144237",
+    "refPhc": "TK40199072",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "40199037",
+    "name": "Cesto inox 380X320X145 mm",
+    "ean": "8421152026656",
+    "refPhc": "TK40199037",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "40199038",
+    "name": "Cesto inox diam. 370X145 mm",
+    "ean": "8421152026663",
+    "refPhc": "TK40199038",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 80000
+  },
+  {
+    "sku": "40199039",
+    "name": "Cesto inox diam. 340X145 mm",
+    "ean": "8421152026670",
+    "refPhc": "TK40199039",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_outros",
+    "priceAOA": 65000
+  },
+  {
+    "sku": "61001104",
+    "name": "Conjunto Sifão 2C salva espaço",
+    "ean": "8421152714881",
+    "refPhc": "TK61001104",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 41000
+  },
+  {
+    "sku": "61001097",
+    "name": "Conjunto Sifão 1C salva espaço",
+    "ean": "8421152713013",
+    "refPhc": "TK61001097",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 33000
+  },
+  {
+    "sku": "100020",
+    "name": "Sifão duplo c/caixa limpeza",
+    "ean": "5604634014607",
+    "refPhc": "TK100020",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 24000
+  },
+  {
+    "sku": "100022",
+    "name": "Sifão simples c/caixa limpeza",
+    "ean": "5604634014577",
+    "refPhc": "TK100022",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 16000
+  },
+  {
+    "sku": "61001291",
+    "name": "Kit válvula automática HelixPro 3½ com anti-transbordo retangular",
+    "ean": "8421152107768",
+    "refPhc": "TK61001291",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "61001406",
+    "name": "Kit válvula automática HelixPro 3½ com anti-transbordo",
+    "ean": "8421152108109",
+    "refPhc": "TK61001406",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "61001334",
+    "name": "Válvula HelixPro 3½ com anti-transbordo retangular (SMR)",
+    "ean": "8421152109212",
+    "refPhc": "TK61001334",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 58000
+  },
+  {
+    "sku": "61001400",
+    "name": "Válvula HelixPro 3½ com anti-transbordo",
+    "ean": "8421152108000",
+    "refPhc": "TK61001400",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 36000
+  },
+  {
+    "sku": "61001401",
+    "name": "Válvula HelixPro 3½ sem anti-transbordo",
+    "ean": "8421152108017",
+    "refPhc": "TK61001401",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 36000
+  },
+  {
+    "sku": "61001302",
+    "name": "Válvula prestígio 3½ com anti-transbordo",
+    "ean": "8421152714478",
+    "refPhc": "TK61001302",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 29000
+  },
+  {
+    "sku": "61001303",
+    "name": "Válvula prestígio 3½ sem anti-transbordo",
+    "ean": "8421152714492",
+    "refPhc": "TK61001303",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 29000
+  },
+  {
+    "sku": "40199510",
+    "name": "Tampa inox para válvula",
+    "ean": "8421152113806",
+    "refPhc": "TK40199510",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 36000
+  },
+  {
+    "sku": "115890034",
+    "name": "Tampão p/ válvula automática HelixPro",
+    "ean": "8434778025842",
+    "refPhc": "TK115890034",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 29000
+  },
+  {
+    "sku": "115890033",
+    "name": "Tampão p/ válvula manual HelixPro",
+    "ean": "8434778025835",
+    "refPhc": "TK115890033",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 29000
+  },
+  {
+    "sku": "81100009",
+    "name": "Tampão p/ válvula automática quadrada",
+    "ean": "5604634070009",
+    "refPhc": "TK81100009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 26000
+  },
+  {
+    "sku": "20199006",
+    "name": "Tampão p/ válvula prestígio",
+    "ean": "8421152713716",
+    "refPhc": "TK20199006",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 21000
+  },
+  {
+    "sku": "61501027",
+    "name": "Embelezador de anti-transbordo redondo",
+    "ean": "8421152716045",
+    "refPhc": "TK61501027",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 7000
+  },
+  {
+    "sku": "61501025",
+    "name": "Taco para Lava-Loucas",
+    "ean": "5604634990406",
+    "refPhc": "TK61501025",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_lava_loica_acessorio",
+    "priceAOA": 7000
+  },
+  {
+    "sku": "113290029",
+    "name": "Kit convencional CFR 30480 LOE (DHT 1285)",
+    "ean": "8434778024302",
+    "refPhc": "TK113290029",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "113290025",
+    "name": "Kit regenerativo RFC60210 O1B (DHT 97670)",
+    "ean": "8434778020328",
+    "refPhc": "TK113290025",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 819000
+  },
+  {
+    "sku": "113290061",
+    "name": "Kit regenerativo CFC 60210 O1C SS (DHT 96340 SS)",
+    "ean": "8434778028850",
+    "refPhc": "TK113290061",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "113290062",
+    "name": "Kit regenerativo CFC 60210 O1C WH (DHT 96340 WH)",
+    "ean": "8434778028867",
+    "refPhc": "TK113290062",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 699000
+  },
+  {
+    "sku": "113290013",
+    "name": "Kit regenerativo RFH 36100 F0A (FIH)",
+    "ean": "8434778014624",
+    "refPhc": "TK113290013",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 489000
+  },
+  {
+    "sku": "40490148",
+    "name": "Kit convencional SET 1/I1 (CC ILHA)",
+    "ean": "8421152156407",
+    "refPhc": "TK40490148",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "40490149",
+    "name": "Kit convencional SET 1/T1 (DG3 ILHA, DH2 ILHA, DPL ILHA)",
+    "ean": "8421152156414",
+    "refPhc": "TK40490149",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 80000
+  },
+  {
+    "sku": "113290031",
+    "name": "Kit regenerativo RG1 15200 L3C (DVI)",
+    "ean": "8434778024807",
+    "refPhc": "TK113290031",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 349000
+  },
+  {
+    "sku": "113290033",
+    "name": "Kit regenerativo RG1 15200 02C (DVI)",
+    "ean": "8434778024821",
+    "refPhc": "TK113290033",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "113290010",
+    "name": "Kit regenerativo RFH 15200 L3C (DLV, DHP, DLH, DSJ)",
+    "ean": "8434778014594",
+    "refPhc": "TK113290010",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 289000
+  },
+  {
+    "sku": "113290018",
+    "name": "Kit convencional CFH 15200 L3C (DLV)",
+    "ean": "8434778014792",
+    "refPhc": "TK113290018",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "113290012",
+    "name": "Kit regenerativo RFH 15200 02C (DLV, DVT)",
+    "ean": "8434778014617",
+    "refPhc": "TK113290012",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 219000
+  },
+  {
+    "sku": "113290016",
+    "name": "Kit convencional CFH 15200 02C (DLV)",
+    "ean": "8434778014778",
+    "refPhc": "TK113290016",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 99000
+  },
+  {
+    "sku": "113290011",
+    "name": "Kit regenerativo RFH 15200 L2C (DVT, DBP, DBB)",
+    "ean": "8434778014600",
+    "refPhc": "TK113290011",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 279000
+  },
+  {
+    "sku": "113290007",
+    "name": "Kit convencional SET D13 CTP (DVN)",
+    "ean": "8434778011203",
+    "refPhc": "TK113290007",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 109000
+  },
+  {
+    "sku": "40490109",
+    "name": "Kit convencional SET 1/L (DQ2)",
+    "ean": "8421152054437",
+    "refPhc": "TK40490109",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 109000
+  },
+  {
+    "sku": "40490146",
+    "name": "Kit convencional SET 1/M1 (DVT, DBP, DBB, DMR)",
+    "ean": "8421152156384",
+    "refPhc": "TK40490146",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 80000
+  },
+  {
+    "sku": "40490147",
+    "name": "Kit convencional SET 1/N1 (DVI, PERFECTA4, DHP, DSH)",
+    "ean": "8421152156391",
+    "refPhc": "TK40490147",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 80000
+  },
+  {
+    "sku": "40490150",
+    "name": "Kit convencional SET D1CTP (DLH, DSJ)",
+    "ean": "8421152158371",
+    "refPhc": "TK40490150",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 80000
+  },
+  {
+    "sku": "113290044",
+    "name": "Kit regenerativo RFH 12120 FOC (AFF, AFC)",
+    "ean": "8434778025019",
+    "refPhc": "TK113290044",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_Exaustor_kitrecirculacao",
+    "priceAOA": 119000
+  },
+  {
+    "sku": "113290039",
+    "name": "Cobretubos superior longo (330x270x800mm) preto mate (DVI)",
+    "ean": "8434778024951",
+    "refPhc": "TK113290039",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_sobretubo",
+    "priceAOA": 159000
+  },
+  {
+    "sku": "113290024",
+    "name": "Cobretubos superior longo (330x270x800mm) inox (DLV, PERFECT4, DLH, DSH, DSJ)",
+    "ean": "8434778017151",
+    "refPhc": "TK113290024",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_sobretubo",
+    "priceAOA": 139000
+  },
+  {
+    "sku": "81472103",
+    "name": "Cobretubos superior longo (235x175x800mm) inox (DHP, DVT, DBP, DBB)",
+    "ean": "8421152708316",
+    "refPhc": "TK81472103",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_sobretubo",
+    "priceAOA": 109000
+  },
+  {
+    "sku": "81477025",
+    "name": "Cobretubos superior longo (450x450x800mm) inox (DQ2)",
+    "ean": "8421152054451",
+    "refPhc": "TK81477025",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_sobretubo",
+    "priceAOA": 169000
+  },
+  {
+    "sku": "113290026",
+    "name": "Filtro carvão ativo regenerativo R1RES (DHT 97670)",
+    "ean": "8434778020335",
+    "refPhc": "TK113290026",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 459000
+  },
+  {
+    "sku": "113290060",
+    "name": "Filtro carvão ativo long life regenerativo C11RES (DHT 96340)",
+    "ean": "8434778028843",
+    "refPhc": "TK113290060",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 139000
+  },
+  {
+    "sku": "113290014",
+    "name": "Filtro carvão ativo regenerativo R1RFB (FIH)",
+    "ean": "8434778014631",
+    "refPhc": "TK113290014",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 379000
+  },
+  {
+    "sku": "113290009",
+    "name": "Filtro carvão ativo regenerativo R1RTK (DVI, DLV, DVT, DVN, DHP, PERFECTA4, DLH, DSH, DBP, DBB, DSJ)",
+    "ean": "8434778014587",
+    "refPhc": "TK113290009",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 209000
+  },
+  {
+    "sku": "113290027",
+    "name": "Filtro carvão ativo cerâmico regenerativo R2RES (AFF, AFC)",
+    "ean": "8434778024272",
+    "refPhc": "TK113290027",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 669000
+  },
+  {
+    "sku": "113290054",
+    "name": "Filtro carvão ativo long life regenerativo L2RES (AFF, AFC)",
+    "ean": "8434778025989",
+    "refPhc": "TK113290054",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 299000
+  },
+  {
+    "sku": "113290028",
+    "name": "Filtro carvão ativo convencional C2RKP (DHT 1285)",
+    "ean": "8434778024296",
+    "refPhc": "TK113290028",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "113290015",
+    "name": "Filtro carvão ativo convencional C1RTK (DLV)",
+    "ean": "8434778014761",
+    "refPhc": "TK113290015",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 96000
+  },
+  {
+    "sku": "61801345",
+    "name": "Filtro carvão ativo convencional D9C (DVN, INTEGRA)",
+    "ean": "8421152149454",
+    "refPhc": "TK61801345",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 129000
+  },
+  {
+    "sku": "61801262",
+    "name": "Filtro carvão ativo convencional D4C (DVI, ILHA, DVT, DHP, PERFECTA4, DSH, DQ2, DBP, DMR, DBB, GFL)",
+    "ean": "8421152070192",
+    "refPhc": "TK61801262",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 40000
+  },
+  {
+    "sku": "61801236",
+    "name": "Filtro carvão ativo convencional D1C (DLH, DSJ, CNL x815, GFI x7350)",
+    "ean": "8421152708293",
+    "refPhc": "TK61801236",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 40000
+  },
+  {
+    "sku": "61801346",
+    "name": "Filtro carvão ativo convencional CNL 1C (CNL 6415, TL x310, TL1 52, GFI x3030, GFG, GFH)",
+    "ean": "8421152149607",
+    "refPhc": "TK61801346",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 48000
+  },
+  {
+    "sku": "61801238",
+    "name": "Filtro carvão ativo convencional C1R (C x420)",
+    "ean": "8421152712351",
+    "refPhc": "TK61801238",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 40000
+  },
+  {
+    "sku": "61801232",
+    "name": "Filtro carvão ativo convencional C1C (TL 6420)",
+    "ean": "8421152708286",
+    "refPhc": "TK61801232",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 40000
+  },
+  {
+    "sku": "61801239",
+    "name": "Filtro carvão ativo convencional C2R (C 6310)",
+    "ean": "8421152741450",
+    "refPhc": "TK61801239",
+    "familia": "ELECTRODOMESTICO",
+    "subfamilia": "elect_exaustor_filtro",
+    "priceAOA": 40000
+  }
+]

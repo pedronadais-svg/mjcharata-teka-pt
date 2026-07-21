@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "faqs": [
+    {
+      "id": "faq-custom-001",
+      "question": "Fazem instalação dos eletrodomésticos?",
+      "answer": "A instalação não está incluída na compra, mas pode ser solicitada como serviço adicional. O custo depende do tipo de produto e da localização. Contacte-nos pelo +244 933 302 752 para obter um orçamento de instalação.",
+      "category": "Serviços"
+    },
+    {
+      "id": "faq-custom-002",
+      "question": "Têm loja física em Luanda?",
+      "answer": "Os produtos Teka estão disponíveis nos nossos distribuidores autorizados em Luanda. Pode consultar a lista completa na página 'Onde Comprar' do nosso website, ou contactar-nos para indicarmos o ponto de venda mais próximo de si.",
+      "category": "Compras"
+    }
+  ]
+}

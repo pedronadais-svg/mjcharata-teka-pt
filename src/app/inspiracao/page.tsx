@@ -73,7 +73,7 @@ export default async function InspiracaoPage({ searchParams }: PageProps) {
       {/* Banner */}
       <section className="relative bg-teka-dark py-16 lg:py-24">
         <div className="absolute inset-0 bg-gradient-to-br from-teka-charcoal to-teka-dark" />
-        <div className="relative max-w-7xl mx-auto px-6 text-center">
+        <div className="relative max-w-[1440px] mx-auto px-6 text-center">
           <h1 className="font-heading font-extrabold text-4xl lg:text-5xl text-white">
             Inspiração
           </h1>
@@ -83,7 +83,7 @@ export default async function InspiracaoPage({ searchParams }: PageProps) {
         </div>
       </section>
 
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-[1440px] mx-auto px-6">
         <Breadcrumbs items={[{ label: 'Inspiração' }]} />
 
         {/* Category Filters */}
@@ -95,7 +95,7 @@ export default async function InspiracaoPage({ searchParams }: PageProps) {
         {featured && (
           <Link
             href={`/inspiracao/${featured.slug}`}
-            className="group block bg-white rounded border border-teka-border hover:border-teka-blue/30 hover:shadow-lg transition-all overflow-hidden mb-10"
+            className="group block bg-white rounded border border-teka-border hover:border-teka-red/30 hover:shadow-lg transition-all overflow-hidden mb-10"
           >
             <div className="grid md:grid-cols-2 gap-0">
               <div className="aspect-[16/10] md:aspect-auto bg-teka-light overflow-hidden">
@@ -112,18 +112,18 @@ export default async function InspiracaoPage({ searchParams }: PageProps) {
               </div>
               <div className="p-6 lg:p-10 flex flex-col justify-center">
                 <div className="flex items-center gap-3 mb-4">
-                  <Badge className="bg-teka-blue text-white border-0 text-xs">Destaque</Badge>
+                  <Badge className="bg-teka-red text-white border-0 text-xs">Destaque</Badge>
                   <Badge variant="secondary" className="text-xs">{featured.category}</Badge>
                   <span className="flex items-center gap-1 text-xs text-teka-gray">
                     <Clock className="h-3 w-3" />
                     {featured.readTime}
                   </span>
                 </div>
-                <h2 className="font-heading font-bold text-2xl lg:text-3xl text-teka-dark group-hover:text-teka-blue transition-colors">
+                <h2 className="font-heading font-bold text-2xl lg:text-3xl text-teka-dark group-hover:text-teka-red transition-colors">
                   {featured.title}
                 </h2>
                 <p className="text-teka-gray mt-3 leading-relaxed">{featured.excerpt}</p>
-                <div className="mt-6 flex items-center gap-2 text-sm font-medium text-teka-blue">
+                <div className="mt-6 flex items-center gap-2 text-sm font-medium text-teka-red">
                   <span>Ler artigo</span>
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </div>
@@ -138,7 +138,7 @@ export default async function InspiracaoPage({ searchParams }: PageProps) {
             <Link
               key={article.id}
               href={`/inspiracao/${article.slug}`}
-              className="group block bg-white rounded border border-teka-border hover:border-teka-blue/30 hover:shadow-lg transition-all overflow-hidden"
+              className="group block bg-white rounded border border-teka-border hover:border-teka-red/30 hover:shadow-lg transition-all overflow-hidden"
             >
               <div className="aspect-[16/10] bg-teka-light overflow-hidden">
                 {article.image ? (
@@ -160,7 +160,7 @@ export default async function InspiracaoPage({ searchParams }: PageProps) {
                     {article.readTime}
                   </span>
                 </div>
-                <h3 className="font-heading font-semibold text-lg text-teka-dark group-hover:text-teka-blue transition-colors line-clamp-2">
+                <h3 className="font-heading font-semibold text-lg text-teka-dark group-hover:text-teka-red transition-colors line-clamp-2">
                   {article.title}
                 </h3>
                 <p className="text-sm text-teka-gray mt-2 line-clamp-2">{article.excerpt}</p>
@@ -176,10 +176,10 @@ export default async function InspiracaoPage({ searchParams }: PageProps) {
               <Link
                 key={p}
                 href={`/inspiracao?pagina=${p}${categoria ? `&categoria=${categoria}` : ''}`}
-                className={`w-10 h-10 rounded flex items-center justify-center text-sm font-medium transition-colors ${
+                className={`w-11 h-11 rounded flex items-center justify-center text-sm font-medium transition-colors ${
                   p === page
-                    ? 'bg-teka-blue text-white'
-                    : 'bg-teka-light text-teka-gray hover:bg-teka-blue/10'
+                    ? 'bg-teka-red text-white'
+                    : 'bg-teka-light text-teka-gray hover:bg-teka-red/10'
                 }`}
               >
                 {p}

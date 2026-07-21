@@ -87,7 +87,7 @@ export default async function ArticlePage({ params }: PageProps) {
           />
         )}
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 to-black/60" />
-        <div className="relative h-full max-w-7xl mx-auto px-6 flex items-end pb-8">
+        <div className="relative h-full max-w-[1440px] mx-auto px-6 flex items-end pb-8">
           <div>
             <Badge variant="secondary" className="text-xs mb-3">{article.category}</Badge>
             <h1 className="font-heading font-bold text-2xl md:text-3xl lg:text-[30px] text-white leading-tight max-w-3xl">
@@ -97,7 +97,7 @@ export default async function ArticlePage({ params }: PageProps) {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-[1440px] mx-auto px-6">
         <Breadcrumbs
           items={[
             { label: 'Inspiração', href: '/inspiracao' },
@@ -194,7 +194,7 @@ export default async function ArticlePage({ params }: PageProps) {
                 <Link
                   key={rel.id}
                   href={`/inspiracao/${rel.slug}`}
-                  className="group block bg-white rounded border border-teka-border hover:border-teka-blue/30 hover:shadow-lg transition-all overflow-hidden"
+                  className="group block bg-white rounded border border-teka-border hover:border-teka-red/30 hover:shadow-lg transition-all overflow-hidden"
                 >
                   <div className="aspect-[16/10] bg-teka-light overflow-hidden">
                     {rel.image && (
@@ -211,7 +211,7 @@ export default async function ArticlePage({ params }: PageProps) {
                       <Badge variant="secondary" className="text-xs">{rel.category}</Badge>
                       <span className="text-xs text-teka-gray">{rel.readTime}</span>
                     </div>
-                    <h3 className="font-heading font-semibold text-sm text-teka-dark group-hover:text-teka-blue transition-colors line-clamp-2">
+                    <h3 className="font-heading font-semibold text-sm text-teka-dark group-hover:text-teka-red transition-colors line-clamp-2">
                       {rel.title}
                     </h3>
                   </div>
@@ -223,7 +223,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
         {/* Back link */}
         <div className="pb-10">
-          <Link href="/inspiracao" className="inline-flex items-center gap-2 text-sm text-teka-gray hover:text-teka-blue transition-colors">
+          <Link href="/inspiracao" className="inline-flex items-center gap-2 text-sm text-teka-gray hover:text-teka-red transition-colors">
             <ArrowLeft className="h-4 w-4" />
             Voltar à Inspiração
           </Link>
