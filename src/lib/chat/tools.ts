@@ -144,7 +144,7 @@ export const chatTools = {
     }),
     execute: async ({ type }) => {
       const info: Record<string, Record<string, unknown>> = {
-        contacto: { telefone: '+244 933 302 752', email: 'teka@mdvmadeiras.com', horario: 'Seg-Sex 8h-17h', morada: 'Luanda, Angola' },
+        contacto: { telefone: '+244 933 302 752', email: 'teka@mdvmadeiras.com', horario: 'Seg-Sex: 8h-17h | Sáb: 8h-13h | Dom: Encerrado', morada: 'Complexo Tubogáz, Viana, Luanda' },
         assistencia: { telefone: '+244 933 302 752', cobertura: 'Luanda (direto), províncias (parceiros)', processo: 'Contactar com referência do produto.' },
         garantia: { periodo: '12 meses', cobertura: 'Defeitos de fabrico, peças e mão de obra', ativacao: 'Guardar fatura de compra' },
         entrega: { luanda: '3-5 dias úteis', provincias: '7-15 dias úteis', instalacao: 'Disponível mediante orçamento' },

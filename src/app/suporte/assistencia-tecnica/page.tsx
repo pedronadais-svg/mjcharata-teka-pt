@@ -58,11 +58,11 @@ export default function AssistenciaTecnicaPage() {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
-                href="tel:+244222000000"
+                href="tel:+244933302752"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-teka-red hover:bg-teka-red-dark text-white font-medium rounded-lg transition-colors"
               >
                 <Phone className="h-4 w-4" />
-                +244 222 000 000
+                +244 933 302 752
               </a>
               <a
                 href="/suporte/contacto"

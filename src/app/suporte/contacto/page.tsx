@@ -125,8 +125,8 @@ export default function ContactoPage() {
                   <div>
                     <p className="text-sm font-medium text-teka-dark">Morada</p>
                     <p className="text-sm text-teka-gray">
-                      Rua da Tecnologia, 100<br />
-                      Luanda, Angola
+                      Complexo Tubogáz<br />
+                      Viana, Luanda
                     </p>
                   </div>
                 </div>
@@ -135,8 +135,9 @@ export default function ContactoPage() {
                   <div>
                     <p className="text-sm font-medium text-teka-dark">Horário</p>
                     <p className="text-sm text-teka-gray">
-                      Seg-Sex: 9h00 – 18h00<br />
-                      Sáb-Dom: Encerrado
+                      Segunda a Sexta: 8h00 – 17h00<br />
+                      Sábado: 8h00 – 13h00<br />
+                      Domingo: Encerrado
                     </p>
                   </div>
                 </div>
