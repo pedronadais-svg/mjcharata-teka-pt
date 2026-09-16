@@ -4,35 +4,21 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Onde Comprar Teka em Angola | Lojas MDV',
-  description: 'Encontre pontos de venda e lojas Teka em Angola. Distribuidores autorizados MDV em Luanda, Talatona e Benguela. Visite-nos hoje!',
+  description: 'Encontre a Teka em Angola. Distribuidor autorizado MDV em Luanda (Viana). Visite-nos hoje!',
   alternates: { canonical: '/onde-comprar' },
   openGraph: {
     title: 'Onde Comprar Teka em Angola | Lojas MDV',
-    description: 'Encontre pontos de venda e lojas Teka em Angola. Distribuidores autorizados MDV em Luanda, Talatona e Benguela. Visite-nos hoje!',
+    description: 'Encontre a Teka em Angola. Distribuidor autorizado MDV em Luanda (Viana). Visite-nos hoje!',
   },
 };
 
 const stores = [
   {
-    name: 'MDV Luanda — Sede',
-    address: 'Rua Major Kanhangulo, 200\nLuanda, Angola',
-    phone: '+244 222 000 000',
-    email: 'luanda@mdv.co.ao',
-    hours: 'Seg-Sex: 8h00 – 17h00 | Sáb: 8h00 – 13h00',
-  },
-  {
-    name: 'MDV Talatona',
-    address: 'Av. Pedro de Castro Van-Dúnem Loy\nTalatona, Luanda',
-    phone: '+244 222 000 001',
-    email: 'talatona@mdv.co.ao',
-    hours: 'Seg-Sex: 8h00 – 17h00 | Sáb: 8h00 – 13h00',
-  },
-  {
-    name: 'MDV Benguela',
-    address: 'Rua da Indústria, 50\nBenguela, Angola',
-    phone: '+244 272 000 000',
-    email: 'benguela@mdv.co.ao',
-    hours: 'Seg-Sex: 8h00 – 17h00',
+    name: 'MDV - Luanda',
+    address: 'Complexo Tubogáz\nViana, Luanda',
+    phone: '+244 933 302 752',
+    email: 'teka@mdvmadeiras.com',
+    hours: 'Segunda a Sexta: 8h00 – 17h00\nSábado: 8h00 – 13h00\nDomingo: Encerrado',
   },
 ];
 
@@ -54,7 +40,7 @@ export default function OndeComprarPage() {
       <div className="max-w-[1440px] mx-auto px-6">
         <Breadcrumbs items={[{ label: 'Onde Comprar' }]} />
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 py-8 pb-16">
+        <div className="max-w-md mx-auto py-8 pb-16">
           {stores.map((store) => (
             <div
               key={store.name}
@@ -80,7 +66,7 @@ export default function OndeComprarPage() {
                 </div>
                 <div className="flex items-start gap-3">
                   <Clock className="h-4 w-4 text-teka-red shrink-0 mt-0.5" />
-                  <p className="text-sm text-teka-gray">{store.hours}</p>
+                  <p className="text-sm text-teka-gray whitespace-pre-line">{store.hours}</p>
                 </div>
               </div>
             </div>
